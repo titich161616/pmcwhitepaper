@@ -81,7 +81,7 @@ Example `logrotate` configuration:
 }
 ```
 
-Refer to the [Logging](broken-reference) section below for recommendations on log storage.
+Refer to the Logging section below for recommendations on log storage.
 
 #### Additional dependencies
 
@@ -166,19 +166,7 @@ PMC Chain secrets ( `ibft` and `libp2p` keys ) should not be stored on a local f
 Instead, a supported Secret Manager should be used.\
 Storing secrets to local file system should only be used in non-production environments.
 
-### Update
-
-Following is the desired update procedure for validator nodes, described as step-by-step instructions.
-
-#### Update procedure
-
-* Download the latest PMC Chain binary from the official GitHub [releases](https://github.com/0xPolygon/PMC-Chain/releases)
-* Stop the PMC Chain service ( example: `sudo systemctl stop PMC-Chain.service` )
-* Replace the existing `PMC-Chain` binary with the downloaded one ( example: `sudo mv PMC-Chain /usr/local/bin/` )
-* Check if correct `PMC-Chain` version is in place by running `PMC-Chain version` - it should correspond to the release version
-* Check the release documentation if there are any backwards compatibility steps needed to be done before starting `PMC-Chain` service
-* Start `PMC-Chain` service ( example: `sudo systemctl start PMC-Chain.service` )
-* Finally, check the `PMC-Chain` log output and make sure everything is running without any `[ERROR]` logs
+###
 
 :::warning When there is a breaking release, this update procedure must be performed on all nodes as the currently running binary is not compatible with the new release.
 
@@ -190,9 +178,9 @@ You can use tools like [**Ansible**](https://www.ansible.com/) or some custom sc
 
 Following is the desired flow of the startup procedure for PMC Chain validator
 
-* Read through the docs listed in [Knowlege Base](broken-reference) section
+* Read through the docs listed in Knowlege Base section
 * Apply the latest OS patches on the validator node
-* Download the latest `PMC-Chain` binary from the official GitHub [releases](https://github.com/0xPolygon/PMC-Chain/releases) and place it in local instance `PATH`
+* Download the latest `PMC-Chain` binary from the official GitHub releases and place it in local instance `PATH`it will be released soon.....
 * Initialize one of the supported secrets managers using `PMC-Chain secrets generate` CLI command
 * Generate and store secrets using `PMC-Chain secrets init` CLI command
 * Take note of `NodeID` and `Public key (address)` values

@@ -28,19 +28,5 @@ There is no minimum amount required for delegation. Any amount, even 1 PMC, will
 
 ● There is no newly minted block reward for block production.&#x20;
 
-## Validator Hosting
-
-Below are the suggestions for properly hosting a validator node in PMC network. Please pay careful attention to all the items listed below to make sure that your validator setup is properly configured to be secure, stable, and performant.
-
-### Minimum system requirements <a href="#minimum-system-requirements" id="minimum-system-requirements"></a>
-
-
-
-| Type | Value                                                                                          | Influenced by                                                                                                                |
-| ---- | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| CPU  | 2 cores                                                                                        | <ul><li>Number of JSON-RPC queries</li><li>Size of the blockchain state</li><li>Block gas limit</li><li>Block time</li></ul> |
-| RAM  | 2 GB                                                                                           | <ul><li>Number of JSON-RPC queries</li><li>Size of the blockchain state</li><li>Block gas limit</li></ul>                    |
-| Disk | <ul><li>10 GB root patition</li><li>30 GB root partition with LVM for disk extension</li></ul> | <p></p><ul><li>Size of the blockchain state</li></ul>                                                                        |
-
 
 

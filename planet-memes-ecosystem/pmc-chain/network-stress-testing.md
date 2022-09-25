@@ -1,12 +1,5 @@
 # Network stress testing
 
-### Prerequisites
-
-This guide assumes that:
-
-* You have a working PMC Chain network up and running
-* Both your JSON-RPC and GRPC endpoints are reachable
-
 ### Overview
 
 The PMC Chain Loadbot is a helper utility that is meant to stress test a PMC Chain network.

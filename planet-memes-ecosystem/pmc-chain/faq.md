@@ -1,10 +1,16 @@
-# Validators FAQ
+# FAQ
+
+### Does PMC Chain support Smart Contracts?
+
+Yes. PMC Chain networks are Ethereum-compatible blockchains, so Smart Contracts that are deployable on Ethereum, are also deployable on PMC Chain chains.
+
+### Does PMC Chain support ERC-20 as a gas token?[​](https://wiki.polygon.technology/docs/edge/faq/gas#does-edge-support-erc-20-as-a-gas-token) <a href="#does-edge-support-erc-20-as-a-gas-token" id="does-edge-support-erc-20-as-a-gas-token"></a>
+
+PMC Chain doesn't support ERC-20 token as gas token. Only $PMC currency is supported for gas.
 
 ### How to add/remove a validator?
 
-
-
-Adding/removing validators is done by voting. You can find here a full guide about this.
+Adding/removing validators is done by voting.&#x20;
 
 #### PoS
 
@@ -27,17 +33,15 @@ If we are talking about technical limitations, PMC Chain doesn't explicitly have
 
 If we are talking about practical limitations, you're going to see a more degraded performance with a 100 node cluster than with a 10 node cluster. By increasing the number of nodes in your cluster, you increase the communication complexity and just the networking overhead in general. It all depends on what kind of network you are running, and what kind of network topology you have.
 
-### How to switch from PoA to PoS?
 
-PoA is the default consensus mechanism. For a new cluster, to switch to PoS, you will need to add the `--pos` flag when generating the genesis file. If you have a running cluster, you can find here how to make the switch. All the info you need about our consensus mechanisms and setup can be found on our consensus section.
 
 ### How do I update my nodes when there's a breaking change?
 
-You can find a detailed guide on how to do this procedure here.
+You can find a detailed guide on how to do this procedure [here](broken-reference).
 
-### Is the minimum staking amount configurable for PoS Edge?
+### Is the minimum staking amount configurable for PMC Chain?
 
-The minimum staking amount by default is `1 ETH`, and it’s not configurable.
+The minimum staking amount by default is`1 PMC`, and it’s not configurable.
 
 ### Why do the JSON RPC commands `eth_getBlockByNumber` and `eth_getBlockByHash` not return the miner's address?
 
