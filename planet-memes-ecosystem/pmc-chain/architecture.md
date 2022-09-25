@@ -2,7 +2,7 @@
 
 PMC-chain Architecture
 
-
+<figure><img src="../../.gitbook/assets/WhatsApp-Image-2022-09-26-at-12.07.png" alt=""><figcaption></figcaption></figure>
 
 ### Libp2p <a href="#libp2p" id="libp2p"></a>
 
