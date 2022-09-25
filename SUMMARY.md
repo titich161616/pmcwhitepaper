@@ -1,6 +1,9 @@
 # Table of contents
 
-* [pmcwhitepaper](README.md)
+* [Planet Memes](README.md)
+* [Table Of Content](table-of-content.md)
+* [Disclaimer](disclaimer.md)
+* [Introduction](introduction.md)
 
 ## Planet Memes Ecosystem&#x20;
 
