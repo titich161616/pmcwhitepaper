@@ -6,7 +6,7 @@ An IBFT PoS with built-in systems contracts will be used as a core consensus alg
 
 ● The average block time is expected to be 2 seconds.&#x20;
 
-● Initially, 100 nodes will be running to comply with BFT (Byzantine Fault Tolerance).&#x20;
+● Initially, 21 nodes will be running to comply with BFT (Byzantine Fault Tolerance).&#x20;
 
 ● Block size will be dynamic and decided by the Validator set. The initial block gas limit is 20,000,000.&#x20;
 
