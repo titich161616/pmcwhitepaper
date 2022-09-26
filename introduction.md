@@ -15,3 +15,5 @@ Planet Memes is an ecosystem built to reward and give utility to chosen DAO meme
 Planet Memes Foundation is building products that will unite all the meme coin communities allowing them to compete and prove which meme coin community is stronger.
 
 ### **Our Vision**
+
+**Building a better world for the meme coin Community**&#x20;

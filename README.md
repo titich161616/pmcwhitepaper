@@ -1,5 +1,5 @@
 ---
-description: One stop shop for the whole meme coin community
+description: The Amazon of Meme Coins
 ---
 
 # Planet Memes
