@@ -12,7 +12,7 @@ Memes Pay is working to bring meme coins to blockchain payment technology by all
 
 Memes Pay system offers multiple Scalable payments solutions and a universal settlement layer for moving meme token-based digital currencies.
 
-<figure><img src="../../../.gitbook/assets/screenshot-4.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/screenshot-4 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 ## **Decentralized payments at scale**
 
