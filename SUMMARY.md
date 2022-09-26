@@ -14,7 +14,7 @@
   * [Performance](planet-memes-ecosystem/pmc-chain/performance.md)
   * [Network stress testing](planet-memes-ecosystem/pmc-chain/network-stress-testing.md)
   * [FAQ](planet-memes-ecosystem/pmc-chain/faq.md)
-* [PlanetBridge](planet-memes-ecosystem/planetbridge.md)
+* [PlanetBridge](planet-memes-ecosystem/planet-bridge.md)
 * [PMC-SWAP](planet-memes-ecosystem/pmc-swap.md)
 * [Memes Wallet](planet-memes-ecosystem/memes-wallet/README.md)
   * [Ecosystem](planet-memes-ecosystem/memes-wallet/ecosystem/README.md)
@@ -23,8 +23,7 @@
     * [Staking](planet-memes-ecosystem/memes-wallet/ecosystem/staking.md)
 * [Planet Memes Academy](planet-memes-ecosystem/planet-memes-academy.md)
 * [League Of Memes](planet-memes-ecosystem/league-of-memes.md)
-* [PMC Tokenomics](planet-memes-ecosystem/pmc-tokenomics/README.md)
-  * [Page 1](planet-memes-ecosystem/pmc-tokenomics/page-1.md)
+* [PMC Tokenomics](planet-memes-ecosystem/pmc-tokenomics.md)
 * [Memesgress](planet-memes-ecosystem/memesgress.md)
 
 ***

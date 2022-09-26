@@ -1,5 +1,7 @@
 # Memes Wallet
 
+<figure><img src="../../.gitbook/assets/screenshot-1 (1).png" alt=""><figcaption></figcaption></figure>
+
 ## **Memes Wallet**
 
 Memes Wallet is a multichain non-custodial web3 wallet with a memeable UI that will connect millions of meme coins fans around the world safely. Memes Wallet offers multi-chain (NFT & cryptocurrency), DEX, Staking, Payment solutions & DApp Browser, and others.
