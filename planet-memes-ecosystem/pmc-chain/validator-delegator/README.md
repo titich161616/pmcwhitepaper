@@ -18,7 +18,7 @@ There is no minimum amount required for delegation. Any amount, even 1 PMC, will
 
 
 
-● We allocate 10% of our total supply of 10 billion tokens to fund the staking rewards over the next 5 years. As a validator. We also provide annual rewards as incentives!
+● We allocate 10% of our total supply of 10 billion tokens to fund the staking rewards over the next 5 years. As a validator. you get to set your own commission for accepting delegations to your node We also provide annual rewards as incentives!
 
 ● These rewards are primarily meant to jump-start the network, while the protocol in the long run should be able to sustain itself based on transaction fees.
 
