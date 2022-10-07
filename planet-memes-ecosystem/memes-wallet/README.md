@@ -4,7 +4,7 @@
 
 ## **Memes Wallet**
 
-Memes Wallet is a multi-chain non-custodial web3 wallet with a memeable UI that will connect millions of meme coins fans around the world safely. Memes wallet offers multi-chain (NFT & cryptocurrency), DEX, Staking, Payment solutions & DApp Browser, and others.
+Memes Wallet is a multichain non-custodial web3 wallet with a memeable UI that will connect millions of meme coins fans around the world safely. Memes Wallet offers multi-chain (NFT & cryptocurrency), DEX, Staking, Payment solutions & DApp Browser, and others.
 
 ### **Features**
 
@@ -16,11 +16,11 @@ Your private keys can't leave your device. Using strong wallet encryption and cr
 
 **Enhanced privacy/anonymity**
 
-No KYC bureaucracy to access your assets, no IP association, no identity, and no transaction tracking.
+No KYC bureaucracy to access your assets, no IP association, no identity, no transaction tracking.
 
 **Payment Solutions**
 
-Memes Wallet offers scalable payment solutions with meme coins built for immediate transactions and fees that are fractions of a penny.
+Memes Wallet offers scalable payment solutions with meme coins built for immediate transactions, fees that are fractions of a penny.
 
 **Buy assets with your card.**
 
@@ -28,13 +28,13 @@ Purchase Assets directly from Memes Wallet through the use of our partners. More
 
 **DApp Browser & Web3 support**
 
-Seamlessly access your favorite DApps with Memes Wallet's integrated DApp browser and Web3 support without any compromise on security.
+Seamlessly access your favorite DApps with Memes Wallet’s integrated DApp browser and Web3 support without any compromise on security.
 
 **Multi-chain**
 
-Full support for Bitcoin and other major altcoins and tokens. Coin selection and addition are made with the utmost care.
+Full support for Bitcoin and other major altcoins and tokens. Coin selection and addition are done with the utmost care.
 
 **NFT**
 
-Full support for ERC721, ERC1155, BEP721, BEP1155, TRC721, NEAR NFT, and SLP tokens, store, access, and manage your collectibles with peace of mind and security using Memes Wallet's innovative interface.
+full support for ERC721, ERC1155, BEP721, BEP1155, TRC721, NEAR NFT, and SLP tokens, store, access, and manage your collectibles with peace of mind and security using Memes Wallet’s innovative interface.
 
