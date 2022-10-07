@@ -14,8 +14,12 @@ Adding/removing validators is done by voting.&#x20;
 
 ### How much disk space is recommended for a validator?
 
-We recommend starting with 100G as a conservatively estimated runway and making sure that it is possible to scale the disk afterward.
+We recommend starting with 100G as a conservatively estimated runway, and making sure that it is possible to scale the disk afterwards.
+
+### Is there a limit to the number of validators?
+
+If we are talking about technical limitations, PMC Chain doesn't explicitly have a cap on the number of nodes you can have in a network. You can set connection caps (inbound / outbound connection counts) on a per-node basis.
 
 ### Is the minimum staking amount configurable for PMC Chain?
 
-The minimum staking amount after migrating to POS by default is`1 PMC`, and it’s not configurable.
+The minimum staking amount by default is`1 PMC`, and it’s not configurable.
