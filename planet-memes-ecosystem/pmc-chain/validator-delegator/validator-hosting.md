@@ -1,10 +1,11 @@
 # Validator Hosting
 
-Below are the suggestions for properly hosting a validator node in a PMC Chain network. Please pay careful attention to all the items listed below to ensure that your validator setup is properly configured to be secure, stable, and performant.
+Below are the suggestions for properly hosting a validator node in a PMC Chain network. Please pay careful attention to all the items listed below to make sure that your validator setup is properly configured to be secure, stable and performant.
 
 ### Knowledge base
 
-Before trying to run the validator node, please read through this document thoroughly.
+Before trying to run the validator node, please read through this document thoroughly.\
+Additional docs that might be helpful are:
 
 * Installation
 * Cloud setup
