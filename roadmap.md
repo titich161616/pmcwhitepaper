@@ -11,7 +11,7 @@
 
 * Blockchain Creation ✅
 * TPS Performance test ✅
-* Start development Memes Wallet. ✅
+* Start development of Memes Wallet. ✅
 * Memes Academy infrastructure setup. ✅
 
 #### Stage 3
@@ -36,7 +36,7 @@
 * PMC chain mainnet release
 * Top tier 1 CEX listing, PMC
 * PMCchain Hackathon
-* League of Memes Demo released
+* League of Memes Demo release
 
 #### Stage 7
 
