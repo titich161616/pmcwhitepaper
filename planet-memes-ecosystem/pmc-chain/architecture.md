@@ -16,19 +16,19 @@ PMC-Chain is designed to offer off-the-shelf pluggable consensus algorithms.
 
 ### Blockchain[​](https://wiki.polygon.technology/docs/edge/architecture/overview#blockchain) <a href="#blockchain" id="blockchain"></a>
 
-The Blockchain layer is the central layer that coordinates everything in the **PMC-Chain** system. It is covered in depth in the corresponding _Modules_ section.
+The Blockchain layer is the central layer that coordinates everything in the PMC-Chain system. It is covered in depth in the corresponding _Modules_ section.
 
 ### State[​](https://wiki.polygon.technology/docs/edge/architecture/overview#state) <a href="#state" id="state"></a>
 
-The State's inner layer contains state transition logic. It deals with how the state changes when a new block is included. It is covered in depth in the corresponding Modules section.
+The State inner layer contains state transition logic. It deals with how the state changes when a new block is included. It is covered in depth in the corresponding _Modules_ section.
 
 ### &#x20;JSON RPC[​](https://wiki.polygon.technology/docs/edge/architecture/overview#json-rpc)
 
-The JSON RPC layer is an API layer that dApp developers use to interact with the blockchain. It is covered in depth in the corresponding Modules section.
+The JSON RPC layer is an API layer that dApp developers use to interact with the blockchain. It is covered in depth in the corresponding _Modules_ section.
 
 ### TxPool[​](https://wiki.polygon.technology/docs/edge/architecture/overview#txpool) <a href="#txpool" id="txpool"></a>
 
-The TxPool layer represents the transaction pool and is closely linked with other modules in the system, as transactions can be added from multiple entry points.
+The TxPool layer represents the transaction pool, and it is closely linked with other modules in the system, as transactions can be added from multiple entry points.
 
 ### GRPC[​](https://wiki.polygon.technology/docs/edge/architecture/overview#grpc) <a href="#grpc" id="grpc"></a>
 
