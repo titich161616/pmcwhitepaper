@@ -8,25 +8,25 @@ PlanetMemeschain is a new blockchain built and designed to create more benefits 
 
 #### &#x20;**2. Main Features of PlanetMemeschain**
 
-&#x20;****&#x20;
+&#x20;**** PlanetMemeschain relies on the following fundamental principles:
 
-**PlanetMemeschain** relies on the following key principles:
+**PlanetMemeschain** relies on the following fundamental principles:
 
 ● IBFT Proof-of-Stake (PoS) consensus: Community users can participate in the network which ensures a permissionless and decentralized blockchain.
 
 &#x20;
 
-● EVM-compatible: Existing Ethereum smart contracts can easily be migrated to **PlanetMemeschain** without requiring any further modification.
+● EVM-compatible: Existing Ethereum smart contracts can easily be migrated to **PlanetMemeschain** without requiring further modification.
 
 &#x20;
 
-● Decentralized Governance:Community members (token holders) can make proposals, delegate, vote on the blockchain parameters & events, and **influence governance decisions.**
+● Decentralized Governance: Community members (token holders) can make proposals, delegate, vote on the blockchain parameters & events, and **influence governance decisions.**
 
 &#x20;
 
 ● Cross-chain compatibility: **PlanetMemeschain** Bridge allows **** users to bridge tokens from all EVM compatible chains
 
-Just by holding your preferred meme coin and $PMC on PMC chain, you will be eligible for the $PMC airdrop and more exclusive benefits.
+**By holding your preferred meme coin and $PMC on the PMC chain, you will be eligible for the $PMC airdrop and more exclusive benefits.**
 
 PlanetMemeschain strives to solve performance, scalability, and usability issues while not compromising decentralization and leveraging the existing developer community and ecosystem
 
