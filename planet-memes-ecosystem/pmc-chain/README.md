@@ -8,6 +8,8 @@ PlanetMemeschain is a new blockchain built and designed to create more benefits 
 
 #### &#x20;**2. Main Features of PlanetMemeschain**
 
+&#x20;**** PlanetMemeschain relies on the following fundamental principles:
+
 **PlanetMemeschain** relies on the following fundamental principles:
 
 ● IBFT Proof-of-Stake (PoS) consensus: Community users can participate in the network which ensures a permissionless and decentralized blockchain.
