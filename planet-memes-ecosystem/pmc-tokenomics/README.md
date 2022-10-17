@@ -1,6 +1,6 @@
 # PMC Tokenomics
 
-<figure><img src="../../.gitbook/assets/WhatsApp Image 2022-09-25 at 9.41.53 PM (1).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tekon-Recovered.png" alt=""><figcaption></figcaption></figure>
 
 ### $PMC Holders Benefits&#x20;
 
