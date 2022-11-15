@@ -22,7 +22,7 @@
     * [Community Governance](planet-memes-ecosystem/memes-wallet/ecosystem/community-governance.md)
     * [Staking](planet-memes-ecosystem/memes-wallet/ecosystem/staking.md)
 * [Planet Memes Academy](planet-memes-ecosystem/planet-memes-academy.md)
-* [League Of Memes](planet-memes-ecosystem/league-of-memes.md)
+* [Clash Of Memes](planet-memes-ecosystem/clash-of-memes.md)
 * [PMC Tokenomics](planet-memes-ecosystem/pmc-tokenomics/README.md)
 * [Memesgress](planet-memes-ecosystem/memesgress.md)
 
