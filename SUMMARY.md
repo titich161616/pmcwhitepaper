@@ -12,6 +12,7 @@
   * [Validator /Delegator](planet-memes-ecosystem/pmc-chain/validator-delegator/README.md)
     * [Validator Hosting](planet-memes-ecosystem/pmc-chain/validator-delegator/validator-hosting.md)
   * [Performance](planet-memes-ecosystem/pmc-chain/performance.md)
+  * [PMC SDK](planet-memes-ecosystem/pmc-chain/pmc-sdk.md)
   * [Network stress testing](planet-memes-ecosystem/pmc-chain/network-stress-testing.md)
   * [FAQ](planet-memes-ecosystem/pmc-chain/faq.md)
 * [PlanetBridge](planet-memes-ecosystem/planet-bridge.md)
