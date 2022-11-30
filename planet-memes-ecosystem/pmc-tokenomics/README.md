@@ -4,18 +4,7 @@
 
 ``
 
-| **Validators sale**                              | 1.1%  | <p>110000000</p><p> </p>  | 0.0005    | 25% at TGE, 75 % over 6 months                            |
-| ------------------------------------------------ | ----- | ------------------------- | --------- | --------------------------------------------------------- |
-| **Private sale presale**                         | 4%    | <p>400000000</p><p> </p>  | 0.0006    | 35 % at TGE, 65 % over 6 months                           |
-| **Public round 1**                               | 8%    | <p>800000000</p><p> </p>  | 0.00072   | 45% at TGE, 55% over 6 months                             |
-| **Public round 2**                               | 8%    | <p>800000000</p><p> </p>  | 0.000864  | 45% at TGE, 55% over 6 months                             |
-| **Exchange listing and Liquidity**               | 10%   | <p>1000000000</p><p> </p> | 0.0010368 |                                                           |
-| **Network Operations**                           | 9,1%  | <p>910000000</p><p> </p>  |           | 5year linear vesting                                      |
-| **Rewards For Clash of memes**                   | 10%   | <p>1000000000</p><p> </p> |           |                                                           |
-| **Foundation reserve**                           | 13,9% | <p>1390000000</p><p> </p> |           | 1% upfront 30 days after TGE, 90% 10 years linear vesting |
-| <p><strong>Gameplay Rewards</strong></p><p> </p> | 11%   | <p>1100000000</p><p> </p> |           |                                                           |
-| **Marketing and Advisors**                       | 5%    | <p>500000000</p><p> </p>  |           | 35% 7 days after TGE, 65% 12 months linear vesting        |
-| **Validator staking rewards**                    | 19,9% | <p>1990000000</p><p> </p> |           | 90% APR                                                   |
+<table data-view="cards"><thead><tr><th>Allocation type </th><th>Supply</th><th>Tokens</th><th>Price ($)</th><th>Release schedule</th></tr></thead><tbody><tr><td><strong>Validators sale</strong></td><td>1.1%</td><td><p>110000000</p><p> </p></td><td>0.0005</td><td>25% at TGE, 75 % over 6 months</td></tr><tr><td><strong>Private sale presale</strong></td><td>4%</td><td><p>400000000</p><p> </p></td><td>0.0006</td><td>35 % at TGE, 65 % over 6 months</td></tr><tr><td><strong>Public round 1</strong> </td><td>8%</td><td><p>800000000</p><p> </p></td><td>0.00072</td><td>45% at TGE, 55% over 6 months</td></tr><tr><td><strong>Public round 2</strong> </td><td>8%</td><td><p>800000000</p><p> </p></td><td>0.000864</td><td>45% at TGE, 55% over 6 months</td></tr><tr><td><strong>Exchange listing and Liquidity</strong></td><td>10%</td><td><p>1000000000</p><p> </p></td><td>0.0010368</td><td> </td></tr><tr><td><strong>Network Operations</strong></td><td>9,1%</td><td><p>910000000</p><p> </p></td><td> </td><td>5year linear vesting</td></tr><tr><td><strong>Rewards For Clash of memes</strong></td><td>10%</td><td><p>1000000000</p><p> </p></td><td> </td><td> </td></tr><tr><td><strong>Foundation reserve</strong></td><td>13,9%</td><td><p>1390000000</p><p> </p></td><td> </td><td>1% upfront 30 days after TGE, 90% 10 years linear vesting</td></tr><tr><td><p><strong>Gameplay Rewards</strong></p><p> </p></td><td>11%</td><td><p>1100000000</p><p> </p></td><td> </td><td> </td></tr><tr><td><strong>Marketing and Advisors</strong></td><td>5%</td><td><p>500000000</p><p> </p></td><td> </td><td>35% 7 days after TGE, 65% 12 months linear vesting</td></tr><tr><td><strong>Validator staking rewards</strong></td><td>19,9%</td><td><p>1990000000</p><p> </p></td><td> </td><td>90% APR</td></tr></tbody></table>
 
 **Total supply:** 10000000000 **PMC**                **Initial Mcap:** $1127529         **FDV:** $10368000
 
