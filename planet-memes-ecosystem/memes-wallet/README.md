@@ -4,7 +4,7 @@
 
 ## **Memes Wallet**
 
-Memes Wallet is a multi-chain non-custodial web3 wallet with a memeable UI that will connect millions of meme coins fans around the world safely. Memes wallet offers multi-chain (NFT & cryptocurrency), DEX, Staking, Payment solutions & DApp Browser, and others.
+Memes Wallet is a multichain non-custodial web3 gaming wallet that will connect millions of gamers and meme coins fans around the world safely. Memes Wallet offers multi-chain (NFT & cryptocurrency), DEX, Payment solutions & DApp Browser, Game character management, daily challenges and access to Planet Memes games.
 
 ### **Features**
 
@@ -18,9 +18,13 @@ Your private keys can't leave your device. Using strong wallet encryption and cr
 
 No KYC bureaucracy to access your assets, no IP association, no identity, and no transaction tracking.
 
+#### Prize and challenges
+
+Memes wallet allows access to Planet Memes gaming platform! Here, players can participate in daily challenges to win PMC rewards and NFT prizes, all from the convenience of their own mobile device.
+
 **Payment Solutions**
 
-Memes Wallet offers scalable payment solutions with meme coins built for immediate transactions and fees that are fractions of a penny.
+Memes Wallet offers scalable payment solutions for planet memes games built for immediate transactions and fees that are fractions of a penny.
 
 **Buy assets with your card.**
 
