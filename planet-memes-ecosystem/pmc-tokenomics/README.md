@@ -17,7 +17,7 @@
 | **Marketing and Advisors**                       | 5%    | <p>500000000</p><p> </p>  |           | 35% 7 days after TGE, 65% 12 months linear vesting        |
 | **Validator staking rewards**                    | 19,9% | <p>1990000000</p><p> </p> |           | 90% APR                                                   |
 
-**Total supply:**10000000000                 **Initial Mcap:** $1127529         **FDV:** $10368000
+**Total supply:** 10000000000 **PMC**                **Initial Mcap:** $1127529         **FDV:** $10368000
 
 &#x20;
 
