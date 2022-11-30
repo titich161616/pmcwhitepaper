@@ -1,6 +1,6 @@
 # PMC SDK
 
-●PMC SDK is designed to make it super easy to get started with Game development by enabling connection and interaction with the PMC blockchain.
+PMC SDK is designed to make it super easy to get started with Game development by enabling connection and interaction with the PMC blockchain.
 
 Contains a huge range of classes, plugins, and example scripts for a variety of use cases.
 

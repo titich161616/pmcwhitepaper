@@ -1,14 +1,6 @@
----
-description: Planet Memes chain is the backbone of blockchain gaming
----
-
 # PMC-Chain
 
-## Overview
-
-PMC chain enables developers and builders to confidently and simply integrate with the best of blockchain technology.
-
-The PMC protocol provides instant transaction confirmation, low gas fees, and immense scalability without compromising on security.
+## Introduction
 
 #### &#x20;**1.PlanetMemesChain**
 
@@ -30,15 +22,9 @@ PlanetMemeschain is a new blockchain built and designed to create more benefits 
 
 &#x20;
 
-● Cross-chain compatibility: **Planet Bridge** allows **** users to bridge tokens from all EVM-compatible chains
+● Cross-chain compatibility: **PlanetMemeschain** Bridge allows **** users to bridge tokens from all EVM compatible chains
 
 **By holding your preferred meme coin and $PMC on the PMC chain, you will be eligible for the $PMC airdrop and more exclusive benefits.**
 
-Planet Memes chain strives to solve performance, scalability, and usability issues while not compromising decentralization and leveraging the existing developer community and ecosystem
-
-●PMC SDK is designed to make it super easy to get started with Game development by enabling connection and interaction with the PMC blockchain.
-
-Contains a huge range of classes, plugins, and example scripts for a variety of use cases.
-
-
+PlanetMemeschain strives to solve performance, scalability, and usability issues while not compromising decentralization and leveraging the existing developer community and ecosystem
 
