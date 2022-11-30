@@ -2,7 +2,24 @@
 
 `NOTE:`<mark style="color:red;">`Depending on the game and The DAO community votes, holding Meme coins selected by the DAO community is required to get access to planet memes games`</mark>` ```&#x20;
 
-<figure><img src="../../.gitbook/assets/tekon-Recovered.png" alt=""><figcaption></figcaption></figure>
+``
+
+| **Validators sale**                              | 1.1%  | <p>110000000</p><p> </p>  | 0.0005    | 25% at TGE, 75 % over 6 months                            |
+| ------------------------------------------------ | ----- | ------------------------- | --------- | --------------------------------------------------------- |
+| **Private sale presale**                         | 4%    | <p>400000000</p><p> </p>  | 0.0006    | 35 % at TGE, 65 % over 6 months                           |
+| **Public round 1**                               | 8%    | <p>800000000</p><p> </p>  | 0.00072   | 45% at TGE, 55% over 6 months                             |
+| **Public round 2**                               | 8%    | <p>800000000</p><p> </p>  | 0.000864  | 45% at TGE, 55% over 6 months                             |
+| **Exchange listing and Liquidity**               | 10%   | <p>1000000000</p><p> </p> | 0.0010368 |                                                           |
+| **Network Operations**                           | 9,1%  | <p>910000000</p><p> </p>  |           | 5year linear vesting                                      |
+| **Rewards For Clash of memes**                   | 10%   | <p>1000000000</p><p> </p> |           |                                                           |
+| **Foundation reserve**                           | 13,9% | <p>1390000000</p><p> </p> |           | 1% upfront 30 days after TGE, 90% 10 years linear vesting |
+| <p><strong>Gameplay Rewards</strong></p><p> </p> | 11%   | <p>1100000000</p><p> </p> |           |                                                           |
+| **Marketing and Advisors**                       | 5%    | <p>500000000</p><p> </p>  |           | 35% 7 days after TGE, 65% 12 months linear vesting        |
+| **Validator staking rewards**                    | 19,9% | <p>1990000000</p><p> </p> |           | 90% APR                                                   |
+
+**Total supply:**10000000000                 **Initial Mcap:** $1127529         **FDV:** $10368000
+
+&#x20;
 
 ## Token Utility
 
