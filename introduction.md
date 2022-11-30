@@ -2,18 +2,16 @@
 
 ### **Problem**
 
-Most of the popular Meme coins have a limited array of use cases and struggle to stay relevant. Although general-purpose smart-contract platforms evolved, these meme coins failed to introduce new and innovative opportunities. Another potential risk is that meme coins are heavily community-driven and are more speculative than the more prominent market capitalization cryptocurrencies, and this volatility constantly leads to unexpected pump and dump.
+Most of the popular Meme coins have a limited array of use cases and struggle to stay relevant. Although general-purpose smart-contract platforms evolved, these meme coins failed to introduce new and innovative opportunities.
 
 ### **Solution**
 
-That's where Planet Memes comes in — to undertake the significant task of setting things straight for Meme coins. This ecosystem will enable rewards, DeFi, and smart contract capabilities for the world's favorite memes coins selected by Planet Meme DAO.
+That's where Planet Memes comes in a play-and-earn gaming platform built to undertake the significant task of setting things straight for Meme coins. This ecosystem will enable games, DeFi, and smart contract capabilities for the world's favorite memes coins selected by the DAO community.
 
 ### **What is Planet Memes?**
 
-Planet Memes is an ecosystem built to reward and give utility to chosen DAO meme coin holders, $PMC holders, and contributors to the PMC network, the way PMC chain is designed incentivizes and rewards meme coin holders from different chains to bridge, use the $PMC chain and all its products.&#x20;
-
-Planet Memes Foundation is building products that will unite all the meme coin communities allowing them to compete and prove which meme coin community is stronger.
+Planet memes combines a gaming platform with applications, tools and scaling infrastructure needed to bring blockchain gaming and meme coins to mass adoption.&#x20;
 
 ### **Our Vision**
 
-**Building a better world for the meme coin Community**&#x20;
+**Enhancing the power of Meme Coins through play**
