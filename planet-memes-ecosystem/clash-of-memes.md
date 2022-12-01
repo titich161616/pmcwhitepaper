@@ -1,6 +1,6 @@
 # Clash Of Memes
 
-<figure><img src="../.gitbook/assets/gang.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/rock-ice-characters.png" alt=""><figcaption></figcaption></figure>
 
 ## Game Overview
 
