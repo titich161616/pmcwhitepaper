@@ -25,6 +25,8 @@
 * [Planet Memes Academy](planet-memes-ecosystem/planet-memes-academy.md)
 * [Clash Of Memes](planet-memes-ecosystem/clash-of-memes.md)
   * [Vision and Mission](planet-memes-ecosystem/clash-of-memes/vision-and-mission.md)
+  * [Gameplay](planet-memes-ecosystem/clash-of-memes/gameplay/README.md)
+    * [Cards](planet-memes-ecosystem/clash-of-memes/gameplay/cards.md)
 * [PMC Tokenomics](planet-memes-ecosystem/pmc-tokenomics/README.md)
 * [Memesgress](planet-memes-ecosystem/memesgress.md)
 

@@ -1,0 +1,7 @@
+# Gameplay
+
+Inspired by the world-renowned Clash Royale, Clash Of Memes is an insanely simple yet hard-to-master online battle brawler video game. The game integrates elements including action, collectible card games, tower defense, and RTS. Clash Of Memes puts players in games featuring two or four players (1v1 or 2v2), in which the objective is to destroy the towers of opponents, with the demolition of the Master’s Tower resulting in an instant win. After 3 minutes, if both sides remain an equal number of towers, the match will continue into a 2-minute overtime period. If no towers are destroyed during overtime, there is a tiebreaker, where all towers rapidly lose health, and the tower with the least health is destroyed. If two towers have the same health, there is a draw
+
+In Clash of Memes, players are ranked by their number of trophies. Players level up by gaining Experience points through donating and upgrading cards. commander Tower levels can reach level 14, and player levels can reach level 50; these factor into competitive match-making.
+
+Trophies are won or lost through multiplayer battles. A player wins a battle by destroying more towers than the opponent (each destroyed tower being represented as a 'crown'), or by destroying the opponent's commander Tower, resulting in an automatic "three-crown" victory (unless the commander Tower was destroyed at the same time by both players, resulting in a rare draw).
