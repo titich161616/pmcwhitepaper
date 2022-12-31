@@ -1,6 +1,6 @@
 # PMC Tokenomics
 
-`NOTE:`<mark style="color:red;">`Depending on the game and The DAO community votes, holding Meme coins selected by the DAO community is required to get access to planet memes games`</mark>` ```&#x20;
+`NOTE:`<mark style="color:red;">`Depending on the game and The DAO community votes, holding Meme coins selected by the DAO community is required to get access to some events and tournements in planet memes games`</mark>` ```&#x20;
 
 ## Allocation & release schedule
 
