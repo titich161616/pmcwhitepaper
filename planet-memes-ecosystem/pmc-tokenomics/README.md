@@ -11,21 +11,20 @@ PMC will be distributed as follows :&#x20;
 
 
 
-| Allocation type                                  | Supply | Tokens                    | Price ($)    | Release schedule                                          |
-| ------------------------------------------------ | ------ | ------------------------- | ------------ | --------------------------------------------------------- |
-| **Validators sale**                              | 1.1%   | <p>110000000</p><p> </p>  | 0.0005       | 25% at TGE, 75 % over 6 months                            |
-| **Private sale presale**                         | 4%     | <p>400000000</p><p> </p>  | 0.0006       | 35 % at TGE, 65 % over 6 months                           |
-| **Public round 1**                               | 8%     | <p>800000000</p><p> </p>  | 0.00072      | 45% at TGE, 55% over 6 months                             |
-| **Public round 2**                               | 8%     | <p>800000000</p><p> </p>  | 0.000864     | 45% at TGE, 55% over 6 months                             |
-| **Exchange listing and Liquidity**               | 10%    | <p>1000000000</p><p> </p> | 0.0010368    |                                                           |
-| **Network Operations**                           | 9,1%   | <p>910000000</p><p> </p>  | Market price | 5year linear vesting                                      |
-| **Rewards For Clash of memes**                   | 10%    | <p>1000000000</p><p> </p> | Market price |                                                           |
-| **Foundation reserve**                           | 13,9%  | <p>1390000000</p><p> </p> | Market price | 1% upfront 30 days after TGE, 90% 10 years linear vesting |
-| <p><strong>Gameplay Rewards</strong></p><p> </p> | 11%    | <p>1100000000</p><p> </p> | Market price |                                                           |
-| **Marketing and Advisors**                       | 5%     | <p>500000000</p><p> </p>  | Market price | 35% 7 days after TGE, 65% 12 months linear vesting        |
-| **Validator staking rewards**                    | 19,9%  | <p>1990000000</p><p> </p> | Market price | 90% APR                                                   |
+| Allocation type                                  | Supply | Tokens                    | Price ($)    | Release schedule                                                |
+| ------------------------------------------------ | ------ | ------------------------- | ------------ | --------------------------------------------------------------- |
+| **Pre Seed**                                     | 5%     | <p>500000000</p><p> </p>  | 0.0005       | 10% released at TGE, then remaining supply vested over 10months |
+| **Seed**                                         | 15%    | <p>1500000000</p><p> </p> | 0.0006       | 10% released at TGE, then remaining supply vested over 10months |
+| **Private sale presale**                         | 8%     | <p>800000000</p><p> </p>  | 0.00072      | 10% released at TGE, then remaining supply vested over 10months |
+| **Public**                                       | 7%     | <p>700000000</p><p> </p>  | 0.000864     | 45% at TGE, 55% over 6 months                                   |
+| **Exchange listing and Liquidity**               | 10%    | <p>1000000000</p><p> </p> | 0.0010368    |                                                                 |
+| **Network Operations**                           | 10%    | <p>1000000000</p><p> </p> | Market price | 5year linear vesting                                            |
+| **Foundation**                                   | 13%    | <p>1300000000</p><p> </p> | Market price | 1% upfront 30 days after TGE, 90% 10 years linear vesting       |
+| <p><strong>Gameplay Rewards</strong></p><p> </p> | 10%    | <p>1000000000</p><p> </p> | Market price |                                                                 |
+| **Advisors**                                     | 3%     | <p>300000000</p><p> </p>  | Market price | 35% 7 days after TGE, 65% 12 months linear vesting              |
+| **Validator staking rewards**                    | 19%    | <p>1900000000</p><p> </p> | Market price | 90% APR                                                         |
 
-**Total supply:** 10000000000 **PMC**                **Initial Mcap:** $1127529         **FDV:** $10368000
+**Total supply:** 10000000000 **PMC**             **Initial Mcap:** $616896           **FDV:** $10368000
 
 &#x20;
 
