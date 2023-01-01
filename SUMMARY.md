@@ -7,6 +7,11 @@
 
 ## Planet Memes Ecosystem&#x20;
 
+* [Games](planet-memes-ecosystem/games/README.md)
+  * [Clash Of Memes](planet-memes-ecosystem/games/clash-of-memes/README.md)
+    * [Vision and Mission](planet-memes-ecosystem/games/clash-of-memes/vision-and-mission.md)
+    * [Gameplay](planet-memes-ecosystem/games/clash-of-memes/gameplay/README.md)
+      * [Cards](planet-memes-ecosystem/games/clash-of-memes/gameplay/cards.md)
 * [PMC-Chain](planet-memes-ecosystem/pmc-chain/README.md)
   * [Architecture](planet-memes-ecosystem/pmc-chain/architecture.md)
   * [Validator /Delegator](planet-memes-ecosystem/pmc-chain/validator-delegator/README.md)
@@ -23,10 +28,6 @@
     * [Community Governance](planet-memes-ecosystem/memes-wallet/ecosystem/community-governance.md)
     * [Staking](planet-memes-ecosystem/memes-wallet/ecosystem/staking.md)
 * [Planet Memes Academy](planet-memes-ecosystem/planet-memes-academy.md)
-* [Clash Of Memes](planet-memes-ecosystem/clash-of-memes.md)
-  * [Vision and Mission](planet-memes-ecosystem/clash-of-memes/vision-and-mission.md)
-  * [Gameplay](planet-memes-ecosystem/clash-of-memes/gameplay/README.md)
-    * [Cards](planet-memes-ecosystem/clash-of-memes/gameplay/cards.md)
 * [PMC Tokenomics](planet-memes-ecosystem/pmc-tokenomics/README.md)
 * [Memesgress](planet-memes-ecosystem/memesgress.md)
 
