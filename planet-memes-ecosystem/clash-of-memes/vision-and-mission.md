@@ -1,8 +1,8 @@
 ---
 description: >-
-  We are excited to declare the vision and mission of DoragonLand which are the
-  motivation that our team is striving for. We have a big ambition to contribute
-  to a fruitful Meme coin/gaming community.
+  We are excited to declare the vision and mission of Clash of Memes which is
+  the motivation that our team is striving for. We have a big ambition to
+  contribute to a fruitful Meme coin/gaming community.
 ---
 
 # Vision and Mission
@@ -23,4 +23,4 @@ Clash of Memes was born to bring the meme coin community, game enthusiasts, and 
 
 **Hard to master:** Players fight against other opponents of different levels and climb to the top of the leaderboard. There will always be the next level of challenges for players to conquer.
 
-**Play to Earn:** Besides the captivating gameplay, the attractive opportunities to reap rewards of PMC tokens and NFT in-game items which have value both in-game and in real life is beneficial features for players.
+**Play and Earn:** Besides the captivating gameplay, the attractive opportunities to reap rewards of PMC tokens and NFT in-game items which have value both in-game and in real life are beneficial features for players.

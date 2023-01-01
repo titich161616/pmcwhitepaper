@@ -12,6 +12,8 @@ Clash of Memes is a 3D tower rush game that integrates battle card gameplay and 
 * Platform: Android, iOS, WebGL, PC&#x20;
 * Launch Date: Q4 - 2023
 
+<figure><img src="../.gitbook/assets/shiba plane .png" alt=""><figcaption></figcaption></figure>
+
 Inspired by the gripping gameplay of Clash Royale, Clash Of Memes brings game players the most immersive experience in the NFT gaming world.
 
 In the game, players can build their strong combat troops and fight against other players or the system in battles of different modes through the matchmaking system to gather resources for leveling up power, climb to the top of the leaderboard.&#x20;
