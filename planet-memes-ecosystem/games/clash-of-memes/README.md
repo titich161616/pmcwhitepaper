@@ -4,12 +4,12 @@
 
 ## Game Overview
 
-Clash of Memes is a 3D tower rush game that integrates battle card gameplay and blockchain technology to create fast-paced brawls among Meme Coins chosen by the DAO community where players can duel with other players and collect rewards of NFT items and PMC tokens in real-time.&#x20;
+Clash of Memes is a real-time strategy game inspired by Clash Royale. This game delivers AAA-quality graphics and cutting-edge features and allows players to collect and upgrade cards featuring meme-themed characters and abilities, as well as spells and towers to defend their base&#x20;
 
-* Category: NFT (Non-fungible token), P2E&#x20;
+* Category: NFT (Non-fungible token), P\&E&#x20;
 * Genre: Action Strategy
 * Age: 9+&#x20;
-* Platform: Android, iOS, WebGL, PC&#x20;
+* Platform: Android, iOS
 * Launch Date: Q4 - 2023
 
 <figure><img src="../../../.gitbook/assets/shiba plane .png" alt=""><figcaption></figcaption></figure>
