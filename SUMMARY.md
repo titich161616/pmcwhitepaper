@@ -11,7 +11,7 @@
   * [Clash Of Memes](planet-memes-ecosystem/games/clash-of-memes/README.md)
     * [Vision and Mission](planet-memes-ecosystem/games/clash-of-memes/vision-and-mission.md)
     * [Gameplay](planet-memes-ecosystem/games/clash-of-memes/gameplay/README.md)
-      * [Cards](planet-memes-ecosystem/games/clash-of-memes/gameplay/cards.md)
+      * [NFT](planet-memes-ecosystem/games/clash-of-memes/gameplay/nft.md)
       * [Land](planet-memes-ecosystem/games/clash-of-memes/gameplay/land.md)
 * [PMC-Chain](planet-memes-ecosystem/pmc-chain/README.md)
   * [Architecture](planet-memes-ecosystem/pmc-chain/architecture.md)
