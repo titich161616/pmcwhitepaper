@@ -14,7 +14,7 @@ Our development team is composed of experienced game developers, Unity developer
 
 **Unity dev**
 
-\*\*\*\*Hamid is a TPM (Technical Product Manager) with 5 years of experience as a product designer/product manager, he also has a strong background in technical (full stack game/app/web development). he made famous local games in Iran's game industry, such as Police Patrol with more than 2 million downloads at 4.4 positive reviews, War Machine, Dark Madness Dark Madness (computer game) and Police Patrol 2 (mobile game) received the best technical game award from Iran Game Festival with more than 5m downloads at 4,6 positive reviews. He also has some experience in crypto games like [Metaverser.me](http://metaverser.me/), Land of Azolite, Galactico, etc.
+**Hamid** is a TPM (Technical Product Manager) with 5 years of experience as a product designer/product manager, he also has a strong background in technical (full stack game/app/web development). he made famous local games in Iran's game industry, such as Police Patrol with more than 2 million downloads at 4.4 positive reviews, War Machine, Dark Madness Dark Madness (computer game) and Police Patrol 2 (mobile game) received the best technical game award from Iran Game Festival with more than 5m downloads at 4,6 positive reviews. He also has some experience in crypto games like [Metaverser.me](http://metaverser.me/), Land of Azolite, Galactico, etc.
 
 ### Sadra **Delir**
 
@@ -22,4 +22,4 @@ Our development team is composed of experienced game developers, Unity developer
 
 **Software Engineer at Bright Future GmbH**
 
-Having worked more than as an Android developer, Sadra was first inspired to create a game in 2014, and in the same year, uploaded it to Iran's local Android market, Cafebazaar. This game has been downloaded almost 200k times! Upon experiencing this success, Sadra was inspired to try something more. So he began developing indie games and also learning Unity as my first game engine, so after one year, Sadra founded an Indie game studio called Part Games, where he learned a great deal and had a great time.\
+Having worked more than as an Android developer, **Sadra** was first inspired to create a game in 2014, and in the same year, uploaded it to Iran's local Android market, Cafebazaar. This game has been downloaded almost 200k times! Upon experiencing this success, Sadra was inspired to try something more. So he began developing indie games and also learning Unity as my first game engine, so after one year, Sadra founded an Indie game studio called Part Games, where he learned a great deal and had a great time.\
