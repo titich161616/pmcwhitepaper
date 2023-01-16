@@ -2,7 +2,15 @@
 
 In addition to the NFT characters and items, players will also be able to collect and upgrade unique NFT lands in Clash of Memes. These NFT lands will serve as the battlegrounds where players can challenge each other and compete in battles. Each land will have its own unique features, such as terrain and obstacles, that will provide an added layer of strategy to gameplay.
 
+<div>
+
 <figure><img src="../../../../.gitbook/assets/WhatsApp Image 2023-01-10 at 1.21.13 AM.jpeg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../../.gitbook/assets/WhatsApp Image 2023-01-16 at 4.21.28 AM.jpeg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 
 
