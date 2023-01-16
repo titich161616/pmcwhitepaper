@@ -1,20 +1,14 @@
 # Team
 
-Built by Memecoin holders, for Memecoin holders
+Planet Memes is proud to have a talented and experienced team of developers, designers, and game developers working on our project. Our team is composed of more than 17 members, each with their own unique skills and expertise in the gaming and blockchain industries.
 
-Core Team
+Our team is led by **Ahmad Haidari**, our **CTO**, who has over 10 years of experience in the industry and a strong entrepreneurial spirit, having founded and run several startups. He brings his technical expertise and business acumen to drive the company forward.
 
-#### Ahmad Haidari
+**Mohammed Lamine Benahcene**, our **CBDO**, is a seasoned entrepreneur with over 7 years of experience in the blockchain and gaming industries. He has a background in finance and has been involved in the crypto space since 2016. He helped grow Arab Network into the largest and first Arabic crypto platform with over 250k users, introducing cryptocurrency and blockchain to the Arabic community.
 
-**CTO**
+Our development team is composed of experienced game developers, Unity developers, and blockchain developers, who are working on creating a high-quality gaming platform for meme lovers. Our designers and game designers are creating engaging and visually stunning games that will provide a sustainable and meaningful use case for meme coins.
 
-Ahmad is a full-stack developer with 10 years of experience in the industry, specializing in the MENA stack. Throughout his career, he has demonstrated a strong entrepreneurial spirit, having founded and run three startups, with one achieving partial success. Currently, he serve as the CTO and co-founder of Planet memes, utilizing his technical expertise and business acumen to drive the company forward. His background in the industry has prepared me for a wide range of challenges and opportunities
 
-#### Mohammed Lamine Benahcene
-
-**CBDO**
-
-Mohammed Benahcene is a seasoned entrepreneur and expert in the blockchain and gaming industries, with over 7 years of experience in the space. He is a co-founder and CBDO of Planet Memes. Mohammed has a background in finance and has been involved in the crypto space since 2016, he helped grow Arab Network into the largest and first Arabic crypto platform with over 300k users, introducing cryptocurrency and blockchain to the Arabic community. Through his experience investing in meme coins. he has been involved in several projects by investing helping with marketing.
 
 #### Hamid Reza
 
