@@ -15,6 +15,8 @@
       * [Land](planet-memes-ecosystem/games/clash-of-memes/gameplay/land.md)
       * [Economy](planet-memes-ecosystem/games/clash-of-memes/gameplay/economy.md)
   * [Meme Coin Mania](planet-memes-ecosystem/games/meme-coin-mania.md)
+  * [Cosmic Clash](planet-memes-ecosystem/games/cosmic-clash.md)
+  * [Page 2](planet-memes-ecosystem/games/page-2.md)
 * [PMC-Chain](planet-memes-ecosystem/pmc-chain/README.md)
   * [Architecture](planet-memes-ecosystem/pmc-chain/architecture.md)
   * [Validator /Delegator](planet-memes-ecosystem/pmc-chain/validator-delegator/README.md)
