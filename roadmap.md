@@ -1,47 +1,48 @@
 # Roadmap
 
-#### Stage 1
+## ROADMAP
 
-* Brainstorm ✅
-* Create the project ✅
-* Personnel recruitment ✅
-* Whitepaper design ✅
+### Mars-2022
 
-#### Stage 2
+* Product Definition ✅
+* Research with meme coins fans and blockchain/game developers ✅
+* Market research ✅
 
-* Blockchain Creation ✅
-* TPS Performance test ✅
-* Start development of Memes Wallet. ✅
-* Memes Academy infrastructure setup. ✅
+### July-Aug-2022
 
-#### Stage 3
+* Blockchain Creation, TPS Performance test ✅
+* Memes Wallet App Development (Android & IOS version) ✅
+* Clash Of Memes GDD file designed ✅
 
-* Explorer Launch ✅
-* PMC chain Testnet launch ✅
-* Cross-chain bridge launch ✅
+### Sep-2022
 
-#### Stage 4
+* Game browser integration on Memes Wallet ✅
+* Memes Wallet available on google play store ✅
+* Partnership with Boba Network ✅
 
-* Community building&#x20;
-* PMC token sale launch
-* Certik audit
-* Android/IOS Wallet mainnet&#x20;
+### Dec-2022
 
-#### Stage 5
+* PMC chain testnet Launched ✅
+* Meme Coin Mania GDD file designed ✅
+* Clash Of Memes first prototype ✅
 
-* SWAP mainnet Launch
+### Q1 2023
 
-#### Stage 6
+* Planet Bridge testent launched
+* Clash of Memes NFT Beta access
+* Clash Of Memes Trailer released
+* Clash of Memes Footage
+* Alpha Testing
 
-* PMC chain mainnet release
-* Top tier 1 CEX listing, PMC
-* PMCchain Hackathon
-* League of Memes Demo release
+### Q2 2023
 
-#### Stage 7
+* Clash Of Memes Trailer released
+* PMC token TGE
+* Meme Coin Mania game launched
 
-* PMC chain mainnet release
-* Top tier 1 CEX listing, PMC
-* PMCchain Hackathon
+### Q3 2023
+
+* Clash of Memes NFT game launched
+* Tournaments begins
 
 &#x20;           &#x20;
