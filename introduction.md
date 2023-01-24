@@ -23,5 +23,5 @@ At Planet Memes, we believe that memes have the power to bring people together a
 
 ### **Our Mission**
 
-To create engaging and innovative blockchain games that seamlessly integrate meme culture and cryptocurrency, allowing players to have fun and earn rewards while participating in the growing world of Web3. we aim to bring the power and potential of blockchain technology to the masses in a fun and accessible way.\
+**To create engaging and innovative blockchain games that seamlessly integrate meme culture and cryptocurrency, allowing players to have fun and earn rewards while participating in the growing world of Web3. we aim to bring the power and potential of blockchain technology to the masses in a fun and accessible way.**\
 ****
