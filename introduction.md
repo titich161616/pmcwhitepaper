@@ -1,27 +1,30 @@
 # Introduction
 
-### **Problem**
+### Problem:&#x20;
 
-Many meme coins rely on external factors, such as hype and celebrity endorsements, for their success and have limited utility beyond speculation.
+* High Tax Fees for Game Developers in Web2 Games
+* Lack of Fun and Engagement in Current Play-and-Earn Games
+* High Barriers to Entry in Web3 Games
+* Limited Use of Native Tokens and NFTs
 
-### **Solution**
+### Planet Memes Solution
 
-Planet Memes offers a solution by introducing a play-and-earn gaming platform featuring a range of high-quality game genres, including triple-A games and casual games. This platform not only provides a more sustainable and meaningful use case for these coins but also ensures that only the highest quality meme coins are accepted on the platform.
+* Breaking the 30% Barrier" - Planet Memes utilizes a decentralized platform, allowing for lower transaction fees and more revenue for game developers.
+* Bringing the Fun to Play-and-Earn" - Planet Memes offers a wide variety of high-quality games and tournaments to keep players engaged and excited about earning.
+* Lowering the Barriers to Entry" - Planet Memes utilizes a unique utility token, PMC, that can be earned through gameplay and used across multiple games, making it easier for players to access and enjoy our offerings.
+* Unlocking the Potential of NFTs" - Planet Memes allows players to use and use and trade the same NFTs across different games, maximizing the value and potential of these assets.
 
-### **What is Planet Memes?**
+### ****
 
-Planet Memes is a revolutionary gaming platform that brings together the best of memes and gaming. Our mission is to create immersive, entertaining, and rewarding gaming experiences that showcase the power and creativity of memes.\
-Our first game, Clash of Memes, is a real-time strategy game inspired by Clash Royale. This game delivers AAA quality graphics and cutting-edge features, and allows players to collect and upgrade cards featuring meme-themed characters and abilities, as well as spells and towers to defend their base. As players progress through the game, they can earn rewards in the form of meme rubies and other in-game items, and upgrade their cards and heroes, making it a true play-and-earn experience. These cards are represented as non-fungible tokens (NFTs), giving them true ownership and value within the game.
+### Introducing Planet Memes - the next generation of gaming.&#x20;
 
-In addition to Clash of Memes, we also offer casual games that allow players to earn their favorite meme coin while joining daily challenges and tournaments. To support the scalability of these games and achieve the best game performance, we have built an EVM blockchain called PMC Chain using the polygon edge framework, which allows for fast transactions and low fees. And to make it easy for our users, we have built a non-custodial wallet that allows players to control all of their in-game assets and NFTs in one place.
-
-At Planet Memes, we believe that memes have the power to bring people together and create unforgettable gaming experiences. We are excited to bring our vision to life and share it with the world. So, join us on this journey and be a part of the next big thing in gaming!
+Our mission is to revolutionize the web3 gaming industry by bringing the fun and excitement of meme culture to the world of gaming. We are a team of experienced game developers, designers, and blockchain experts with a passion for creating high-quality, visually stunning, and engaging games. Our platform offers a variety of games, from triple-A titles to casual games, all built with cutting-edge technology such as Unity or Unreal Engine. Our unique play-and-earn model allows players to acquire NFTs and earn our native token PMC, while participating in tournaments and challenges. With low barriers to entry and a strong focus on community, Planet Memes is changing the way we play and earn in the gaming world.
 
 ### **Our Vision**
 
-**Enhancing the power of Meme Coins through play**
+Our vision at Planet Memes is to revolutionize the gaming industry by bringing the fun and culture of meme coins to web3 gaming, with cutting-edge graphics and engaging gameplay that appeals to both casual and hardcore gamers.
 
 ### **Our Mission**
 
-**To create engaging and innovative blockchain games that seamlessly integrate meme culture and cryptocurrency, allowing players to have fun and earn rewards while participating in the growing world of Web3. we aim to bring the power and potential of blockchain technology to the masses in a fun and accessible way.**\
+Our mission is to provide a seamless, accessible, and entertaining gaming experience through our free-to-play, play-and-earn platform, where players can acquire NFTs and earn rewards while engaging in cross-game tournaments and challenges. We strive to be the premier destination for meme-inspired gaming and to drive mainstream adoption of web3 technology.\
 ****
