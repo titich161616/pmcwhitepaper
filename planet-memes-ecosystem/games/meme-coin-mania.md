@@ -26,7 +26,7 @@ One of the key features of Meme Coin Mania is the ability to earn PMC tokens thr
 
 The game also includes a social aspect where players can challenge each other, trade NFTs, and participate in tournaments to compete for prizes. This creates a competitive and engaging player-to-player experience.
 
-Players can also earn meme coins through in-game activities such as completing puzzles, participating in tournaments, and winning PVP battles.&#x20;
+Players can also earn PMC through in-game activities such as completing puzzles, participating in tournaments, and winning PVP battles.&#x20;
 
 <figure><img src="../../.gitbook/assets/photo_2023-01-16 23.48.35.jpeg" alt=""><figcaption></figcaption></figure>
 
