@@ -18,7 +18,7 @@
 * [Staking](planet-memes-ecosystem/memes-wallet/ecosystem/staking.md)
 * [Planet Memes Academy](planet-memes-ecosystem/planet-memes-academy.md)
 * [League Of Memes](planet-memes-ecosystem/games/clash-of-memes/)
-* [PMC Tokenomics](planet-memes-ecosystem/pmc-tokenomics/)
+* [PMC Tokenomics](planet-memes-ecosystem/tokenomics/)
 * [Memesgress](planet-memes-ecosystem/memesgress.md)
 * [Roadmap](roadmap.md)
 * [Team](team.md)

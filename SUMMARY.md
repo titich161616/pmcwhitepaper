@@ -32,7 +32,14 @@
     * [Community Governance](planet-memes-ecosystem/memes-wallet/ecosystem/community-governance.md)
     * [Staking](planet-memes-ecosystem/memes-wallet/ecosystem/staking.md)
 * [Planet Memes Academy](planet-memes-ecosystem/planet-memes-academy.md)
-* [PMC Tokenomics](planet-memes-ecosystem/pmc-tokenomics/README.md)
+* [Tokenomics](planet-memes-ecosystem/tokenomics/README.md)
+  * [Planet Memes Key Stakeholders](planet-memes-ecosystem/tokenomics/planet-memes-key-stakeholders.md)
+  * [Tokenomics Rollout Brief](planet-memes-ecosystem/tokenomics/tokenomics-rollout-brief.md)
+  * [Economic Model](planet-memes-ecosystem/tokenomics/economic-model.md)
+  * [PMG Utility](planet-memes-ecosystem/tokenomics/pmg-utility.md)
+  * [PMG Distribution](planet-memes-ecosystem/tokenomics/pmg-distribution.md)
+  * [Protocol Sustainability Design Mechanisms](planet-memes-ecosystem/tokenomics/protocol-sustainability-design-mechanisms.md)
+  * [Planet Memes Tokenomics Roadmap](planet-memes-ecosystem/tokenomics/planet-memes-tokenomics-roadmap.md)
 * [Memesgress](planet-memes-ecosystem/memesgress.md)
 
 ***
