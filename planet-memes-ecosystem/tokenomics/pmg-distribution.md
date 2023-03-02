@@ -13,9 +13,7 @@ To better understand the context of our token allocation, it is useful to enumer
 
 ## Initial Supply Breakdown
 
-### PMG
 
-A maximum of 1 billion PMG (Planet Meme Governance) tokens will be created. Of the total supply, 10% and 20% will be sold in a private and public round, respectively. While the remaining 70% will be allocated to game development, partnerships, and community incentives. These reserved tokens, except for the allocation for the Foundation, will be distributed over three years through a combination of airdrops and other community-oriented initiatives.
 
 | Allocation type                | Supply | Tokens         | Price ($)    | Release schedule                                                       |
 | ------------------------------ | ------ | -------------- | ------------ | ---------------------------------------------------------------------- |
