@@ -13,20 +13,28 @@ To better understand the context of our token allocation, it is useful to enumer
 
 ## Initial Supply Breakdown
 
-| Allocation Type               | Supply |
-| ----------------------------- | ------ |
-| Treasury (Network Operations) | 62%    |
-| Foundation                    | 15%    |
-| Rewards (Gameplay & Airdrop)  | 20%    |
-| Advisors                      | 3%     |
+### PMG
+
+A maximum of 1 billion PMG (Planet Meme Governance) tokens will be created. Of the total supply, 10% and 20% will be sold in a private and public round, respectively. While the remaining 70% will be allocated to game development, partnerships, and community incentives. These reserved tokens, except for the allocation for the Foundation, will be distributed over three years through a combination of airdrops and other community-oriented initiatives.
+
+| Allocation type                | Supply | Tokens         | Price ($)    | Release schedule                                                       |
+| ------------------------------ | ------ | -------------- | ------------ | ---------------------------------------------------------------------- |
+| Private Sale                   | 3%     | 30000000       | 0.0033       | 15% released at TGE, then remaining supply vested over 1 year 6 months |
+| Public sale                    | 20%    | 200000000      | 0.006        | 15% released at TGE, then remaining supply vested over 1 year 6 months |
+| Exchange listing and Liquidity | 10%    | 100000000      | <p><br></p>  | Fully unlocked at TGE                                                  |
+| Liquidity Bootstrapping        | 20%    | 200000000      | <p><br></p>  | Fully unlocked at TGE                                                  |
+| Treasury (Network Operations)  | 14%    | 140000000      | Market price | 5year linear vesting                                                   |
+| Foundation                     | 15%    | 150000000      | Market price | 10% upfront 30 days after TGE, 90% 10 years linear vesting             |
+| Airdrop                        | 15%    | 150,000,000.00 | Market price | 1 year cliff, and 1 year linear vesting                                |
+| Advisors                       | 3%     | 30000000       | Market price | 15% 7 days after TGE, then remaining supply vested over 1 year         |
 
 ## Token Allocation
 
-<figure><img src="../../.gitbook/assets/Pie chart 3.png" alt=""><figcaption><p>Pie chart of PMG allocation</p></figcaption></figure>
+<figure><img src="https://lh5.googleusercontent.com/IFey95QcBuGXV7YSubLCPZ1tnUQBj0f3sqZ9zP5CugiGHnAB3A-M1BxcER-UFXEY1l5DwMTSHWKXKcm4j1CKzDMHBE8UCNia4JdCu9AGcWWQylkzrdLLlyZXivIBkuPgh6DddEKKCIF4X8KuSocsS5g" alt=""><figcaption></figcaption></figure>
 
-### Treasury Allocation Breakdown
+### $PMG Supply Curve
 
-50% (310,000,000) of Treasury PMG tokens have been set aside for sale to users at a fixed price of 0.005, with each wallet being limited to a maximum purchase of 310,000 PMG. All revenue generated from the sale of these tokens will be directed to the Treasury. Where it is then used to cover various expenses, such as operational costs, grant programs, or liquidity rewards to bootstrap liquidity, should the DAO decide to launch a market for PMG.
+<figure><img src="https://lh4.googleusercontent.com/PLFmH5hknpNNMWc1kvXprgnFMRGqu8M-CcvoD9qNKWNEwl8OJ3GC7HtnrJJ8MPgyyPz2N2DekNGorXNbtcY-KkdDQpsmdpGz_FvJ9DqyrLrKqG0R3ZwhR6XqK72LodsdZKueUgakHWTZpyrfUwBH7Z0" alt=""><figcaption></figcaption></figure>
 
 ### Reward Allocation Breakdown
 
