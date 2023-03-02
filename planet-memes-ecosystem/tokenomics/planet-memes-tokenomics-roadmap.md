@@ -13,6 +13,13 @@ The Planet Memes Tokenomics Roadmap aims to inspire the practice of rigorous tok
 
 * Scenario analysis model for the balancing of the game economy and revenue projection.
 
+### Clash of Memes NFT Sale
+
+### PMG Token Launch:
+
+* Activation of Voting for Meme Coins Burn.
+* Deployment of Burn Percentage Toggle.
+
 
 
 ## Q3 2023
