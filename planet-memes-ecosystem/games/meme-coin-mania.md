@@ -22,11 +22,11 @@ The game offers a unique and entertaining blend of match-3 gameplay with PVP com
 
 </div>
 
-One of the key features of Meme Coin Mania is the ability to earn PMC tokens through gameplay. Players can earn tokens by completing levels, participating in tournaments, and by trading their NFTs on the marketplace. This provides a meaningful use case for PMC tokens and allows players to earn rewards for their in-game achievements.
+One of the key features of Meme Coin Mania is the ability to earn through gameplay. Players can earn tokens by completing levels, participating in tournaments, and by trading their NFTs on the marketplace.
 
 The game also includes a social aspect where players can challenge each other, trade NFTs, and participate in tournaments to compete for prizes. This creates a competitive and engaging player-to-player experience.
 
-Players can also earn PMC through in-game activities such as completing puzzles, participating in tournaments, and winning PVP battles.&#x20;
+Players can also earn through in-game activities such as completing puzzles, participating in tournaments, and winning PVP battles.&#x20;
 
 <figure><img src="../../.gitbook/assets/photo_2023-01-16 23.48.35.jpeg" alt=""><figcaption></figcaption></figure>
 
