@@ -18,7 +18,6 @@
   * [Meme Racing](planet-memes-ecosystem/games/meme-racing.md)
 * [Memes Wallet](planet-memes-ecosystem/memes-wallet/README.md)
   * [Ecosystem](planet-memes-ecosystem/memes-wallet/ecosystem/README.md)
-    * [Memes Pay](planet-memes-ecosystem/memes-wallet/ecosystem/memes-pay.md)
     * [Community Governance](planet-memes-ecosystem/memes-wallet/ecosystem/community-governance.md)
     * [Staking](planet-memes-ecosystem/memes-wallet/ecosystem/staking.md)
 * [Planet Memes Academy](planet-memes-ecosystem/planet-memes-academy.md)

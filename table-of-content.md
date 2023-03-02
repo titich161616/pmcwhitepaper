@@ -4,7 +4,7 @@
 * [Introduction](introduction.md)
 * [Memes Wallet](planet-memes-ecosystem/memes-wallet/)
 * [Ecosystem](planet-memes-ecosystem/memes-wallet/ecosystem/)
-* [Memes Pay](planet-memes-ecosystem/memes-wallet/ecosystem/memes-pay.md)
+* [Memes Pay](broken-reference)
 * [Community Governance](planet-memes-ecosystem/memes-wallet/ecosystem/community-governance.md)
 * [Staking](planet-memes-ecosystem/memes-wallet/ecosystem/staking.md)
 * [Planet Memes Academy](planet-memes-ecosystem/planet-memes-academy.md)
