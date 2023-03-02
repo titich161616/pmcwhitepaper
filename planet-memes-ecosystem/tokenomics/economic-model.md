@@ -12,5 +12,8 @@ The virtual economy within our game is powered by off-chain tokens that exist on
 
 ## PMG
 
-A maximum of 1 billion PMG (Planet Meme governance) tokens will be created. Out of the total supply, 20% will be made available to the community through various reward programs, while the remaining 80% will be allocated to game development, partnerships, and community incentives. There will be no private or public sale and no vested tokens. However, players who wish to participate in the governance mechanism of the protocol (e.g., voting on proposals such as which meme token to burn), and earn yield (from our revenue) may buy PMG from the treasury at a fixed price. There is no expectation of profit on PMG tokens as they are designed solely to help decentralize the protocol.
+A maximum of 1 billion PMG (Planet Meme Governance) tokens will be created. Of the total supply, 10% and 20% will be sold in a private and public round, respectively. While the remaining 70% will be allocated to game development, partnerships, and community incentives. These reserved tokens, except for the allocation for the Foundation, will be distributed over three years through a combination of airdrops and other community-oriented initiatives.
+
+\
+
 
