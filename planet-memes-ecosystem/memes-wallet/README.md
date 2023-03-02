@@ -10,6 +10,9 @@ Memes Wallet is a multichain non-custodial web3 gaming wallet that will connect 
 
 **What makes Memes Wallet stand out?**
 
+**Web3Auth**\
+**A** single sign-on for gamers to create a Blockchain account upon first sign-in. The gamer's private key is encrypted and can be accessed with their social login.
+
 **Hight security**
 
 Your private keys can't leave your device. Using strong wallet encryption and cryptography, you can rest assured that your assets are safe and secure.
