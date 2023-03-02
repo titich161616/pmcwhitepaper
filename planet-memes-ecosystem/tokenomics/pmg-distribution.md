@@ -32,7 +32,7 @@ To better understand the context of our token allocation, it is useful to enumer
 
 ### $PMG Supply Curve
 
-<figure><img src="https://lh4.googleusercontent.com/PLFmH5hknpNNMWc1kvXprgnFMRGqu8M-CcvoD9qNKWNEwl8OJ3GC7HtnrJJ8MPgyyPz2N2DekNGorXNbtcY-KkdDQpsmdpGz_FvJ9DqyrLrKqG0R3ZwhR6XqK72LodsdZKueUgakHWTZpyrfUwBH7Z0" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://lh6.googleusercontent.com/BTeA3i-_JfEdU4MZDRAbxzeKj6H5H-NkHQYtwnuQ34gFC62lPtXC8xPFvnbpMaeZHAYP7lmABCNMY-7YJKYHzLPcPEe6EjihUe3HoDVBWZ0oOUTyQyZ0dSY2d6aRZ3brwRRYYClstmad-MDEf6RYLso" alt=""><figcaption></figcaption></figure>
 
 ### Reward Allocation Breakdown
 
