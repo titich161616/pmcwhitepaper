@@ -11,4 +11,4 @@ Planet Memes tokenomics will be rolled out in two phases, with the aim of strate
 
 ### Phase II:
 
-* Introduction of our native token, the PMG (Planet Meme Coin).
+* Introduction of our native token, the PMG (Planet Meme Governance).
