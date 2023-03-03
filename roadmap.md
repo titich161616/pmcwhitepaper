@@ -26,7 +26,6 @@
 ### Q1 2023
 
 * Clash of Memes NFT Beta access
-* Clash Of Memes Trailer released
 * Clash of Memes Footage
 * Alpha Testing
 
