@@ -26,6 +26,7 @@
 ### Q1 2023
 
 * Clash of Memes NFT Beta access
+* Implementation of Web3Auth on Memes Wallet
 * Clash of Memes Footage
 * Alpha Testing
 
