@@ -14,8 +14,6 @@
     * [Gameplay](planet-memes-ecosystem/games/clash-of-memes/gameplay/README.md)
       * [NFT](planet-memes-ecosystem/games/clash-of-memes/gameplay/nft.md)
       * [Land](planet-memes-ecosystem/games/clash-of-memes/gameplay/land.md)
-  * [Cosmic Clash](planet-memes-ecosystem/games/cosmic-clash.md)
-  * [Meme Racing](planet-memes-ecosystem/games/meme-racing.md)
 * [Memes Wallet](planet-memes-ecosystem/memes-wallet/README.md)
   * [Ecosystem](planet-memes-ecosystem/memes-wallet/ecosystem/README.md)
     * [Community Governance](planet-memes-ecosystem/memes-wallet/ecosystem/community-governance.md)

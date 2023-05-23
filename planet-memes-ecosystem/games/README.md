@@ -1,5 +1,13 @@
 # Games
 
-We are excited to introduce you to our first game, Clash of Memes, a real-time strategy game inspired by Clash Royale. This game delivers AAA-quality graphics and cutting-edge features and allows players to collect and upgrade cards featuring meme-themed characters and abilities, as well as spells and towers to defend their base. As players progress through the game, they can earn rewards in the form of meme rubies and other in-game items, and upgrade their cards and heroes, making it a true play-and-earn experience. These cards are represented as non-fungible tokens (NFTs), giving them true ownership and value within the game.
+\
+\
+In the dynamic ecosystem of Planet Memes, we are crafting a diverse range of games that cater to the interests and preferences of our players. Our primary focus is on two popular genres that have captivated gamers worldwide:
 
-In addition to Clash of Memes, we also offer casual games that allow players to earn PMC while joining daily challenges and tournaments.&#x20;
+
+
+1. **Meme Coin Mania:** This game combines the addictive mechanics of a match-3 game with the exciting world of meme coins. Players dive into a vibrant universe where they embark on a quest to collect ship parts and valuable resources. By strategically matching meme coin characters, players unlock unique abilities and progress through challenging levels, all while earning PMC rewards. Meme Coin Mania offers a delightful experience that blends addictive gameplay, engaging narratives, and the opportunity to immerse oneself in the fascinating meme coin culture.\
+
+2.  **Clash of Memes:** Inspired by the immensely popular Clash Royal, Clash of Memes brings the real-time strategy (RTS) genre to new heights. Players engage in thrilling head-to-head battles, commanding an army of meme-inspired characters. The objective is to strategically deploy troops, build defenses, and outwit opponents to dominate the battlefield. With its intense multiplayer battles and strategic depth, Clash of Memes provides an adrenaline-pumping experience that keeps players on the edge of their seats. It's a game where strategic brilliance and meme-inspired creativity collide.
+
+    \
