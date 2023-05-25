@@ -9,11 +9,7 @@
 
 * [Games](planet-memes-ecosystem/games/README.md)
   * [Meme Coin Mania](planet-memes-ecosystem/games/meme-coin-mania.md)
-  * [Clash Of Memes](planet-memes-ecosystem/games/clash-of-memes/README.md)
-    * [Vision and Mission](planet-memes-ecosystem/games/clash-of-memes/vision-and-mission.md)
-    * [Gameplay](planet-memes-ecosystem/games/clash-of-memes/gameplay/README.md)
-      * [NFT](planet-memes-ecosystem/games/clash-of-memes/gameplay/nft.md)
-      * [Land](planet-memes-ecosystem/games/clash-of-memes/gameplay/land.md)
+  * [Clash Of Memes](planet-memes-ecosystem/games/clash-of-memes.md)
 * [Memes Wallet](planet-memes-ecosystem/memes-wallet/README.md)
   * [Ecosystem](planet-memes-ecosystem/memes-wallet/ecosystem/README.md)
     * [Community Governance](planet-memes-ecosystem/memes-wallet/ecosystem/community-governance.md)
