@@ -10,19 +10,29 @@ The game offers a unique and entertaining blend of match-3 gameplay with PVP com
 One of the key features of Meme Coin Mania is the ability to earn through gameplay. Players can earn tokens by completing levels, participating in tournaments, and by trading their NFTs on the marketplace.\
 
 
-The game also includes a social aspect where players can challenge each other, trade NFTs, and participate in tournaments to compete for prizes. This creates a competitive and engaging player-to-player experience.
+The game also includes a social aspect where players can challenge each other, trade NFTs, and participate in tournaments to compete for prizes. This creates a competitive and engaging player-to-player experience.\
+\
 
-<div align="left">
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="188"><figcaption></figcaption></figure>
+<div>
 
- 
-
-<figure><img src="../../.gitbook/assets/Screen Shot 2023-05-25 at 5.07.02 PM (2).png" alt="" width="181"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/memecoin-board (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/space_ship.jpeg" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/home-memecoin (1).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/memecoin-popup-box (1).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/memecoin-popup-setting (1).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/memecoin-popup-play (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
