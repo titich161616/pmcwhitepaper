@@ -12,13 +12,17 @@ One of the key features of Meme Coin Mania is the ability to earn through gamepl
 
 The game also includes a social aspect where players can challenge each other, trade NFTs, and participate in tournaments to compete for prizes. This creates a competitive and engaging player-to-player experience.
 
-<div>
+<div align="left">
 
-<figure><img src="../../.gitbook/assets/Screen Shot 2023-05-25 at 5.07.02 PM.png" alt="" width="361"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="188"><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/photo_2023-05-25 23.19.31.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-05-25 at 5.07.02 PM (2).png" alt="" width="181"><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/space_ship.jpeg" alt="" width="188"><figcaption></figcaption></figure>
 
 </div>
 
