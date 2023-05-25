@@ -1,47 +1,15 @@
 # Memes Wallet
 
-## [**https://www.youtube.com/shorts/Uw8ru85wU1o**](https://www.youtube.com/shorts/Uw8ru85wU1o)
+{% embed url="https://www.youtube.com/watch?v=AskrDmPLP6I" %}
 
-## **Memes Wallet**
+Memes Wallet is a non-custodial digital wallet developed by Planet Memes Studio, specifically designed to provide users with a seamless and user-friendly experience in accessing and managing their in-game assets across various Planet Memes games. By leveraging the power of users' existing social media accounts, such as Google, Memes Wallet simplifies the onboarding process and grants easy access to the exciting world of meme-inspired gaming. Here's an introduction to the key features and benefits of Memes Wallet:
 
-Memes Wallet is a multichain non-custodial web3 gaming wallet that will connect millions of gamers and meme coins fans around the world safely. Memes Wallet offers multi-chain (NFT & cryptocurrency), DEX, Payment solutions & DApp Browser, Game character management, daily challenges and access to Planet Memes games.
+1. **Easy Access with Social Media Integration:** Memes Wallet takes convenience to the next level by allowing users to sign in and access their wallet using their social media accounts, particularly Google. This integration eliminates the need for creating new credentials and streamlines the login process, making it quick and effortless for users to dive into the Planet Memes gaming ecosystem.
+2. **Centralized Management of In-Game Assets:** With Memes Wallet, users can conveniently manage all their in-game assets from various Planet Memes games in one centralized location. This unified approach eliminates the hassle of switching between multiple platforms or wallets, providing a seamless experience for users to monitor and interact with their virtual items, meme coins, and other game-related assets.
+3. **User-Friendly Interface:** Memes Wallet features an intuitive and user-friendly interface, ensuring that both experienced players and newcomers can easily navigate and interact with their assets. The wallet's design emphasizes simplicity and clarity, enabling users to effortlessly view their meme coin balances, access game-specific features, and engage with the vibrant Planet Memes community.
+4. **Integration of Meme Coins for Enhanced Gameplay**: Memes Wallet integrates meme coins into the gaming experience, adding an extra layer of fun and excitement. By utilizing meme coins within Planet Memes games, players can unlock special features, customize their avatars, and access exclusive in-game content. Memes Wallet serves as the gateway for players to manage their meme coin holdings and utilize them to enhance their overall gaming experience.
+5. **Secure and Non-Custodial:** As a non-custodial wallet, Memes Wallet prioritizes the security and privacy of users' assets. It enables users to retain full control over their private keys, ensuring that they have sole ownership and access to their in-game assets. By implementing robust security measures and encryption protocols, Memes Wallet provides users with peace of mind, knowing that their assets are protected.
+6. **Community Engagement:** Memes Wallet fosters a thriving community of meme enthusiasts and gamers within the Planet Memes ecosystem. Through the wallet's social features, users can connect with fellow players, participate in discussions, and share their gaming achievements. The community aspect adds an interactive element to the Memes Wallet experience, creating opportunities for collaboration, competition, and shared enjoyment of meme-inspired gaming.
 
-### **Features**
-
-**What makes Memes Wallet stand out?**
-
-**Web3Auth**\
-**A** single sign-on for gamers to create a Blockchain account upon first sign-in. The gamer's private key is encrypted and can be accessed with their social login.
-
-**Hight security**
-
-Your private keys can't leave your device. Using strong wallet encryption and cryptography, you can rest assured that your assets are safe and secure.
-
-**Enhanced privacy/anonymity**
-
-No KYC bureaucracy to access your assets, no IP association, no identity, and no transaction tracking.
-
-#### Prize and challenges
-
-Memes wallet allows access to Planet Memes gaming platform! Here, players can participate in daily challenges to win PMC rewards and NFT prizes, all from the convenience of their own mobile device.
-
-**Payment Solutions**
-
-Memes Wallet offers scalable payment solutions for planet memes games built for immediate transactions and fees that are fractions of a penny.
-
-**Buy assets with your card.**
-
-Purchase Assets directly from Memes Wallet through the use of our partners. More options coming soon!
-
-**DApp Browser & Web3 support**
-
-Seamlessly access your favorite DApps with Memes Wallet's integrated DApp browser and Web3 support without any compromise on security.
-
-**Multi-chain**
-
-Full support for Bitcoin and other major altcoins and tokens. Coin selection and addition are made with the utmost care.
-
-**NFT**
-
-Full support for ERC721, ERC1155, BEP721, BEP1155, TRC721, NEAR NFT, and SLP tokens, store, access, and manage your collectibles with peace of mind and security using Memes Wallet's innovative interface.
+###
 
