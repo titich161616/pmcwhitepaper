@@ -28,10 +28,14 @@ Clash of Memes offers an immersive and engaging gameplay experience that combine
 
 **d) Progression and Leaderboards:** As players engage in battles, they earn experience points, level up, and unlock new features and gameplay modes. Clash of Memes incorporates a comprehensive leaderboard system that tracks players' performance, allowing them to compete for the top rankings and gain recognition within the community. Weekly and seasonal tournaments offer $PMC rewards, further amplifying the competitive spirit of the game.
 
-**e) NFT Customization and Upgrades:** Clash of Memes offers extensive customization options for NFTs, allowing players to personalize their meme army and express their unique style. Players can customize the appearance, attributes, and abilities of their NFTs using in-game resources and upgrades. This customization feature not only enhances the visual appeal but also provides strategic advantages in battles.\
+**e) NFT Customization and Upgrades:** Clash of Memes offers extensive customization options for NFTs, allowing players to personalize their meme army and express their unique style. Players can customize the appearance, attributes, and abilities of their NFTs using in-game resources and upgrades. This customization feature not only enhances the visual appeal but also provides strategic advantages in battles.
+
 
 
 <figure><img src="../../../.gitbook/assets/Screen Shot 2023-01-16 at 3.46.52 AM.png" alt=""><figcaption></figcaption></figure>
+
+Players will also be able to acquire Arena NFT lands that allows theme to run and customize their own tournaments \
+
 
 <div>
 
