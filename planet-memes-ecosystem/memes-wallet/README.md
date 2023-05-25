@@ -1,6 +1,6 @@
 # Memes Wallet
 
-<figure><img src="../../.gitbook/assets/screenshot-1 (1).png" alt=""><figcaption></figcaption></figure>
+## [**https://www.youtube.com/shorts/Uw8ru85wU1o**](https://www.youtube.com/shorts/Uw8ru85wU1o)
 
 ## **Memes Wallet**
 
