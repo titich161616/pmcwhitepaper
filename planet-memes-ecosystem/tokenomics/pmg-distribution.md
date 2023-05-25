@@ -15,16 +15,7 @@ To better understand the context of our token allocation, it is useful to enumer
 
 
 
-| Allocation type                | Supply | Tokens         | Price ($)    | Release schedule                                                       |
-| ------------------------------ | ------ | -------------- | ------------ | ---------------------------------------------------------------------- |
-| Private Sale                   | 3%     | 30000000       | 0.0033       | 15% released at TGE, then remaining supply vested over 1 year 6 months |
-| Public sale                    | 20%    | 200000000      | 0.006        | 15% released at TGE, then remaining supply vested over 1 year 6 months |
-| Exchange listing and Liquidity | 10%    | 100000000      | <p><br></p>  | Fully unlocked at TGE                                                  |
-| Liquidity Bootstrapping        | 20%    | 200000000      | <p><br></p>  | Fully unlocked at TGE                                                  |
-| Treasury (Network Operations)  | 14%    | 140000000      | Market price | 5year linear vesting                                                   |
-| Foundation                     | 15%    | 150000000      | Market price | 10% upfront 30 days after TGE, 90% 10 years linear vesting             |
-| Airdrop                        | 15%    | 150,000,000.00 | Market price | 1 year cliff, and 1 year linear vesting                                |
-| Advisors                       | 3%     | 30000000       | Market price | 15% 7 days after TGE, then remaining supply vested over 1 year         |
+<table data-header-hidden><thead><tr><th></th><th width="95"></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>Allocation type</td><td>Supply</td><td>Tokens</td><td>Price ($)</td><td>Release schedule</td></tr><tr><td>Private Sale</td><td>3%</td><td>30000000</td><td>0.0033</td><td>15% released at TGE, then remaining supply vested over 1 year 6 months</td></tr><tr><td>Public sale</td><td>20%</td><td>200000000</td><td>0.006</td><td>15% released at TGE, then remaining supply vested over 1 year 6 months</td></tr><tr><td>Exchange listing and Liquidity</td><td>10%</td><td>100000000</td><td><br></td><td>Fully unlocked at TGE</td></tr><tr><td>Liquidity Bootstrapping</td><td>20%</td><td>200000000</td><td><br></td><td>Fully unlocked at TGE</td></tr><tr><td>Treasury (Network Operations)</td><td>14%</td><td>140000000</td><td>Market price</td><td>5year linear vesting</td></tr><tr><td>Foundation</td><td>15%</td><td>150000000</td><td>Market price</td><td>10% upfront 30 days after TGE, 90% 10 years linear vesting</td></tr><tr><td>Airdrop</td><td>15%</td><td>150,000,000.00</td><td>Market price</td><td>1 year cliff, and 1 year linear vesting</td></tr><tr><td>Advisors</td><td>3%</td><td>30000000</td><td>Market price</td><td>15% 7 days after TGE, then remaining supply vested over 1 year</td></tr></tbody></table>
 
 ## Token Allocation
 

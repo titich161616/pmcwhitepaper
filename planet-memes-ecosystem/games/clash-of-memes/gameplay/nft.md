@@ -1,6 +1,12 @@
 # NFT
 
-In Clash of Memes, players will be able to collect, upgrade and trade unique Non-Fungible Tokens (NFTs) featuring meme-themed characters and abilities, as well as spells and towers to defend their base. These NFTs will be an integral part of the game and will provide players with a new level of in-game ownership and engagement.
+In Clash of Memes, players will be able to collect, upgrade and trade unique Non-Fungible Tokens (NFTs) featuring meme coin-themed characters and abilities
+
+
+
+
+
+, as well as spells and towers to defend their base. These NFTs will be an integral part of the game and will provide players with a new level of in-game ownership and engagement.
 
 In addition, players will be able to use these NFTs across multiple games on the Planet Memes platform, further increasing their utility and value, as well as providing players with the ability to own and control their in-game assets.
 
