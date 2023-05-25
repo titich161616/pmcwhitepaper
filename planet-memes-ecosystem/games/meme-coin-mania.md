@@ -4,7 +4,7 @@ In Meme coin mania, players take on the role of a group of meme coins stranded o
 
 <figure><img src="../../.gitbook/assets/meme coin mania.jpeg" alt=""><figcaption></figcaption></figure>
 
-The game offers a unique and entertaining blend of match-3 gameplay with PVP competition and a storyline inspired by the world of meme coins. Players can also earn rewards in the form of in-game currency (PMC) meme coins and NFTs, which can be used to purchase items and upgrades to further customize their experience.
+The game offers a unique and entertaining blend of match-3 gameplay with PVP competition and a storyline inspired by the world of meme coins. Players can also earn rewards in the form of $PMC token, meme coins and NFTs, which can be used to purchase items and upgrades to further customize their experience.
 
 One of the key features of Meme Coin Mania is the ability to earn through gameplay. Players can earn tokens by completing levels, participating in tournaments, and by trading their NFTs on the marketplace.\
 

@@ -3,11 +3,13 @@ description: >-
   Clash of Memes, developed by Planet Memes, is an exhilarating real-time
   strategy game that brings together the exciting world of memes and strategic
   gameplay. Immerse yourself in a universe where meme
+cover: ../../../.gitbook/assets/site+asset.png
+coverY: -17
 ---
 
 # Clash Of Memes
 
-<figure><img src="../../.gitbook/assets/Screen Shot 2023-05-25 at 8.58.53 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-05-25 at 8.58.53 PM.png" alt=""><figcaption></figcaption></figure>
 
 ### Gameplay Overview:
 
@@ -15,7 +17,7 @@ Clash of Memes offers an immersive and engaging gameplay experience that combine
 
 **a) Memecoin Battles:** Players assemble their meme armies, each consisting of unique NFTs representing popular memes and characters. These NFTs possess varying attributes, abilities, and rarity levels that directly impact gameplay. Players strategically deploy their meme army to engage in memecoin battles, where they compete against other players or AI-controlled opponents.
 
-<figure><img src="../../.gitbook/assets/image_3A1000019611_0x0_2132x1199.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image_3A1000019611_0x0_2132x1199.png" alt=""><figcaption></figcaption></figure>
 
 \
 
@@ -29,19 +31,19 @@ Clash of Memes offers an immersive and engaging gameplay experience that combine
 **e) NFT Customization and Upgrades:** Clash of Memes offers extensive customization options for NFTs, allowing players to personalize their meme army and express their unique style. Players can customize the appearance, attributes, and abilities of their NFTs using in-game resources and upgrades. This customization feature not only enhances the visual appeal but also provides strategic advantages in battles.\
 
 
-<figure><img src="../../.gitbook/assets/Screen Shot 2023-01-16 at 3.46.52 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screen Shot 2023-01-16 at 3.46.52 AM.png" alt=""><figcaption></figcaption></figure>
 
 <div>
 
-<figure><img src="../../.gitbook/assets/photo_2023-05-25 21.49.09.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/photo_2023-05-25 21.49.09.jpeg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/photo_2023-05-25 21.49.12.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/photo_2023-05-25 21.49.12.jpeg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/photo_2023-05-25 21.49.15.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/photo_2023-05-25 21.49.15.jpeg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
