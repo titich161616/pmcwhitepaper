@@ -51,7 +51,7 @@ Players will also be able to acquire Arena NFT lands that allows theme to run an
 
 </div>
 
-**f) Community-driven Events and Collaborations:** To foster a thriving and dynamic community, Clash of Memes hosts regular events, competitions, and collaborations. These community-driven activities encourage player interaction, creativity, and engagement. Collaborations with renowned meme creators, artists, and influencers bring exclusive NFTs and content into the game, offering players exciting opportunities to acquire rare and highly sought-after collectibles.
+**f) Community-driven Events and Collaborations:** To foster a thriving and dynamic community, Clash of Memes hosts regular events, competitions, and collaborations. These community-driven activities encourage player interaction, creativity, and engagement. Collaborations with meme coin projects, bring exclusive NFTs and content into the game, offering players exciting opportunities to acquire rare and highly sought-after collectibles.
 
 
 
