@@ -1,8 +1,4 @@
 ---
-description: >-
-  Clash of Memes, developed by Planet Memes, is an exhilarating real-time
-  strategy game that brings together the exciting world of memes and strategic
-  gameplay. Immerse yourself in a universe where meme
 cover: ../../../.gitbook/assets/site+asset.png
 coverY: -17
 ---
@@ -11,24 +7,37 @@ coverY: -17
 
 <figure><img src="../../../.gitbook/assets/Screen Shot 2023-05-25 at 8.58.53 PM.png" alt=""><figcaption></figcaption></figure>
 
-### Gameplay Overview:
+Clash of Memes offers an immersive and engaging gameplay experience that combines elements of strategy, competition, and collectability. Players enter a vibrant digital world where memes come to life, battling it out for supremacy and rewards.&#x20;
 
-Clash of Memes offers an immersive and engaging gameplay experience that combines elements of strategy, competition, and collectability. Players enter a vibrant digital world where memes come to life, battling it out for supremacy and rewards. Here's an overview of the gameplay mechanics:
+Here's an overview of the gameplay mechanics:
 
-**a) Memecoin Battles:** Players assemble their meme armies, each consisting of unique NFTs representing popular memes and characters. These NFTs possess varying attributes, abilities, and rarity levels that directly impact gameplay. Players strategically deploy their meme army to engage in memecoin battles, where they compete against other players or AI-controlled opponents.
+### Meme Coin Characters:&#x20;
 
 <figure><img src="../../../.gitbook/assets/image_3A1000019611_0x0_2132x1199.png" alt=""><figcaption></figcaption></figure>
 
-\
+Choose from a wide range of meme coin characters, each representing popular meme coins in the crypto space. From Dogecoin to Shiba Inu, Pepe, and more, each character possesses its own distinctive abilities and attributes. Strategically assemble your meme coin team and devise winning strategies to dominate the battlefield.
+
+### NFT Lands:&#x20;
+
+Immerse yourself in the world of NFT lands, unique virtual arenas owned by players like you. As a landowner, you have the power to host tournaments and set entry fees, allowing you to create thrilling competitions for fellow players. With the ability to offer real rewards, you'll attract top talent and foster a competitive gaming environment.
+
+### Real Rewards with PMC:
+
+&#x20;PMC (Planet Memes Coin) serves as the digital currency that fuels the Clash of Memes ecosystem. Acquire PMC by purchasing it directly, and use it to enhance your gaming experience. Use PMC to unlock powerful meme coin characters, access exclusive features, and participate in high-stakes tournaments. With PMC, your in-game achievements can translate into tangible rewards.
+
+### Easy Crypto Wallet Integration:&#x20;
+
+Clash of Memes seamlessly integrates with popular crypto wallets, allowing you to securely manage your PMC holdings. Connect your wallet to easily purchase PMC and manage your in-game assets. Enjoy the benefits of blockchain technology, including transparency and ownership, as you navigate the game's immersive universe.
+
+### Join the Community:&#x20;
+
+Clash of Memes boasts a vibrant and passionate community of meme coin enthusiasts and gamers. Connect with fellow players, join guilds, and participate in global events to showcase your skills. Stay updated with the latest news, strategies, and developments through in-game chat and social media integration.
 
 
-**b) Strategic Deployment:** Successful gameplay in Clash of Memes requires careful strategic planning. Players must analyze their opponents' meme armies, assess their strengths and weaknesses, and formulate effective battle strategies. Each meme NFT possesses unique abilities, synergies, and counters, allowing players to create diverse and powerful combinations for battle.
 
-**c) Battle Outcome and Rewards:** The outcome of memecoin battles determines the rewards earned by players. Victorious players are rewarded with additional, experience points (XP), and other valuable in-game resources. These rewards can be used to enhance their meme army, unlock rare NFTs, or acquire limited-edition items through the in-game marketplace.
+### **Strategic Deployment:**
 
-**d) Progression and Leaderboards:** As players engage in battles, they earn experience points, level up, and unlock new features and gameplay modes. Clash of Memes incorporates a comprehensive leaderboard system that tracks players' performance, allowing them to compete for the top rankings and gain recognition within the community. Weekly and seasonal tournaments offer $PMC rewards, further amplifying the competitive spirit of the game.
-
-**e) NFT Customization and Upgrades:** Clash of Memes offers extensive customization options for NFTs, allowing players to personalize their meme army and express their unique style. Players can customize the appearance, attributes, and abilities of their NFTs using in-game resources and upgrades. This customization feature not only enhances the visual appeal but also provides strategic advantages in battles.
+&#x20;Successful gameplay in Clash of Memes requires careful strategic planning. Players must analyze their opponents' meme armies, assess their strengths and weaknesses, and formulate effective battle strategies. Each meme NFT possesses unique abilities, synergies, and counters, allowing players to create diverse and powerful combinations for battle.
 
 
 
@@ -51,9 +60,15 @@ Players will also be able to acquire Arena NFT lands that allows theme to run an
 
 </div>
 
-**f) Community-driven Events and Collaborations:** To foster a thriving and dynamic community, Clash of Memes hosts regular events, competitions, and collaborations. These community-driven activities encourage player interaction, creativity, and engagement. Collaborations with meme coin projects, bring exclusive NFTs and content into the game, offering players exciting opportunities to acquire rare and highly sought-after collectibles.
+### **Community-driven Events and Collaborations:**
+
+To foster a thriving and dynamic community, Clash of Memes hosts regular events, competitions, and collaborations. These community-driven activities encourage player interaction, creativity, and engagement. Collaborations with meme coin projects, bring exclusive NFTs and content into the game, offering players exciting opportunities to acquire rare and highly sought-after collectibles.
 
 
+
+### Conclusion:&#x20;
+
+Clash of Memes revolutionizes the gaming landscape by combining the excitement of Clash Royale with the world of meme coins and blockchain technology. Experience the thrill of commanding meme coin characters, own NFT lands, and compete for real rewards with PMC. Are you ready to embark on this groundbreaking adventure? Enter the Clash of Memes arena and unleash your strategic prowess today!
 
 \
 
