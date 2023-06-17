@@ -10,4 +10,3 @@
 * [PMC Tokenomics](planet-memes-ecosystem/tokenomics.md)
 * [Memesgress](planet-memes-ecosystem/memesgress.md)
 * [Roadmap](roadmap.md)
-* [Team](broken-reference)
