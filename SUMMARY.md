@@ -29,4 +29,3 @@
 ***
 
 * [Roadmap](roadmap.md)
-* [Team](team.md)
