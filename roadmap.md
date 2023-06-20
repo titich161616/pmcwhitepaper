@@ -28,6 +28,7 @@
 2. **June 2023: Release "Meme Coin Mania" Alpha Version**&#x20;
    * Invite select users for closed alpha testing to gather user feedback and identify areas for improvement.
    * Planet Memes NFT beta access
+   * PMC fair-launch conducted on Pinsale
 3. **jully 2023: Publish "Meme Coin Mania" Beta Version**
    * Open beta testing to a wider audience for stress testing and additional feedback.
 
