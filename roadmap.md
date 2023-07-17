@@ -6,7 +6,7 @@
 * **Research with meme coins enthusiasts and blockchain/game developers** ✅
 * **Market research** ✅
 
-**Jully Aug 2022**&#x20;
+**July Aug 2022**&#x20;
 
 * **Clash of Memes GDD file designed** ✅
 * **Memes wallet App developed (Android version)** ✅
