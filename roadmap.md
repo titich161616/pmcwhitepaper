@@ -22,9 +22,9 @@
 
 #### Q2 2023: Phase 1 - Establishing Core Products
 
-1. **PMC launch**&#x20;
-2. **Jully 2023: Publish "Pepe match" Test Version**
-3. **Invite select users for closed alpha testing to gather user feedback and identify areas for improvement.**
+1. **PMC launch** ✅
+2. **Jully 2023: Publish "Pepe match" Test Version**✅
+3. **Invite select users for closed alpha testing to gather user feedback and identify areas for improvement.**✅
 4. **PMC Listed on top tier exchanges**
 5. **August** **2023: Publish "Pepe match" Alpha Version**
 6. **Planet Memes NFT beta access**
