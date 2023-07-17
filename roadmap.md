@@ -22,33 +22,35 @@
 
 #### Q2 2023: Phase 1 - Establishing Core Products
 
-1. **Mai** **2023: Publish "Meme Coin Mania" Test Version** ✅
-   * Begin internal testing and gather initial feedback to refine game mechanics and address any technical issues. ✅
-   * Web3auth implementation on Memes Wallet ✅
-2. **June 2023: Release "Meme Coin Mania" Alpha Version**&#x20;
-   * Invite select users for closed alpha testing to gather user feedback and identify areas for improvement.
-   * Planet Memes NFT beta access
-   * PMC fair-launch conducted on Pinksale
-   * PMC Listed on top tier exchanges&#x20;
-3. **jully 2023: Publish "Meme Coin Mania" Beta Version**
+1. **PMC launch**&#x20;
+2. **Jully 2023: Publish "Pepe match" Test Version**
+3. **Invite select users for closed alpha testing to gather user feedback and identify areas for improvement.**
+4. **PMC Listed on top tier exchanges**
+5. **August** **2023: Publish "Pepe match" Alpha Version**
+6. **Planet Memes NFT beta access**
+
+
+
+1. **September** **2023: Publish "Meme Coin Mania" Test Version**&#x20;
+   * Begin internal testing and gather initial feedback to refine game mechanics and address any technical issues.&#x20;
+   * Web3auth implementation on Memes Wallet&#x20;
+   * **Publish "Pepe match" Alpha Version**
+2. **October 2023: Release "Meme Coin Mania" Alpha Version**&#x20;
+3. **November 2023: Publish "Meme Coin Mania" Beta Version**
    * Open beta testing to a wider audience for stress testing and additional feedback.
 
-#### Q3 - Q4 2023: Phase 2 - Expanding Game Portfolio and Refining Products
+#### &#x20;Phase 2 - Expanding Game Portfolio and Refining Products
 
-1. **August 2023**: Publish "Clash of Memes" Test Version
+1. **December  2023**: Publish "Clash of Memes" Test Version
    * Begin internal testing of the new game to refine mechanics and address any technical issues.
-2. **September 2023**: Release "Clash of Memes" Alpha Version
+2. **February  2024**: Release "Clash of Memes" Alpha Version
    * Invite select users for closed alpha testing to gather user feedback and identify areas for improvement.
-3. **October 2023**: Publish "Clash of Memes" Beta Version
+3. **April 2024**: Publish "Clash of Memes" Beta Version
    * Open beta testing to a wider audience for stress testing and additional feedback.
-4. **November 2023**: Release "Meme Coin Mania" Beta Version
-   * Continue to refine and enhance the game based on ongoing user feedback.
-5. **December  2023**: Publish "Cosmic Clash" Test Version
-   * Commence internal testing of the new game to ensure smooth gameplay and address any technical issues.
 
-#### Q1 2024: Phase 3 - Finalizing and Launching Key Products
+#### Mai 2024: Phase 3 - Finalizing and Launching Key Products
 
-1. **January 2024**: Release "Clash of Memes" Final Version
+1. &#x20;Release "Clash of Memes" Final Version
    * Officially launch the fully polished and optimized game for the public.
 
 > Note: The above roadmap is subject to change based on the internal development schedule and priorities of Planet Memes Studio. Our commitment is to deliver quality products and experiences for our users, and we will adjust our roadmap as needed to achieve this goal.
