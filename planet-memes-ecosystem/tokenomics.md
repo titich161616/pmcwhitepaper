@@ -4,8 +4,10 @@ description: PMC Tokenomics
 
 # Tokenomics
 
-95% Liquidity \
+37% (Bots black listed at launch)\
+58% Dex Liquidity \
 5% Cex\
+\
 
 
 
