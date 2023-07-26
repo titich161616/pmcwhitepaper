@@ -14,6 +14,7 @@
 #### September 2022
 
 * **Memes wallet available on google play store** ✅
+* Web3auth implementation on Memes Wallet&#x20;
 
 #### December 2022
 
@@ -33,7 +34,6 @@
 
 1. **September** **2023: Publish "Meme Coin Mania" Test Version**&#x20;
    * Begin internal testing and gather initial feedback to refine game mechanics and address any technical issues.&#x20;
-   * Web3auth implementation on Memes Wallet&#x20;
    * **Publish "Pepe match" Alpha Version**
 2. **October 2023: Release "Meme Coin Mania" Alpha Version**&#x20;
 3. **November 2023: Publish "Meme Coin Mania" Beta Version**
