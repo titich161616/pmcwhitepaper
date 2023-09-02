@@ -27,16 +27,18 @@
 2. **Jully 2023: Publish "Pepe match" Test Version**✅
 3. **Invite select users for closed alpha testing to gather user feedback and identify areas for improvement.**✅
 4. **August** **2023: Publish "Pepe match" Alpha Version**
-5. **Planet Memes NFT beta access**
-6. **PMC bridge to other evm chains**
 
 
 
-1. **September** **2023: Publish "Meme Coin Mania" Test Version**&#x20;
-   * Begin internal testing and gather initial feedback to refine game mechanics and address any technical issues.&#x20;
-   * **Publish "Pepe match" Beta Version**
-2. **October 2023: Release "Meme Coin Mania" Alpha Version**&#x20;
-3. **November 2023: Publish "Meme Coin Mania" Beta Version**
+**September** **2023: Publish "Meme Coin Mania" Test Version**&#x20;
+
+* **Planet Memes NFT beta access**
+* **PMC bridge to other evm chains**
+* Begin internal testing and gather initial feedback to refine game mechanics and address any technical issues.&#x20;
+* **Publish "Pepe match" Beta Version**
+
+1. **October 2023: Release "Meme Coin Mania" Alpha Version**&#x20;
+2. **November 2023: Publish "Meme Coin Mania" Beta Version**
    * Open beta testing to a wider audience for stress testing and additional feedback.
 
 #### &#x20;Phase 2 - Expanding Game Portfolio and Refining Products
