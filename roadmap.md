@@ -14,7 +14,7 @@
 #### September 2022
 
 * **Memes wallet available on google play store** ✅
-* Web3auth implementation on Memes Wallet&#x20;
+* Web3auth implementation on Memes Wallet ✅
 
 #### December 2022
 
@@ -24,9 +24,9 @@
 #### Q2 2023: Phase 1 - Establishing Core Products
 
 1. **PMC launch** ✅
-2. **Jully 2023: Publish "Pepe match" Test Version**✅
-3. **Invite select users for closed alpha testing to gather user feedback and identify areas for improvement.**✅
-4. **August** **2023: Publish "Pepe match" Alpha Version**
+2. **Jully 2023: Publish "Pepe match" Test Version** ✅
+3. **Invite select users for closed alpha testing to gather user feedback and identify areas for improvement.** ✅
+4. **August** **2023: Publish "Pepe match" Alpha Version** ✅
 
 
 
